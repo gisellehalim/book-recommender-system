@@ -55,16 +55,19 @@ This dataset consists of:
 This dataset is divided into 4 different files with .dat format that the author has converted to .csv format with Microsoft Excel. The files and features are:
 
 **1. book_history** (reader history), each reader has accessed at least 20 books.
+
         - user
         - item
         - accessed
         
 **2. book_ratings** (book ratings from readers)
+
         - user
         - item
         - ratings (1-10)
 
 **3. users_info** (reader demographic information)
+
         - User_ID 
         - Location
         - Age
@@ -72,6 +75,7 @@ This dataset is divided into 4 different files with .dat format that the author 
 In the users_info data, I tidied up the data by separating the 'location' column into 'city', 'state', and 'country' to facilitate the analysis process. Column separation is done with Microsoft Excel.
 
 **items_info** (information about books/items)
+
         - Book_ID
         - ISBN
         - Book-Title
@@ -86,12 +90,13 @@ In the users_info data, I tidied up the data by separating the 'location' column
 After loading the data and checking the data information, exploratory data analysis was conducted to look deeper into the dataset.
 
 **Readers Demography**
+
 ![Bar Chart](https://i.ibb.co/kMHHxjG/city.png)
 Figure 1: Cities with the Most Readers
 
 It can be seen in Figure 1 that the city with the most readers is Toronto with more than 30 unique readers.
 
-!Bar Chart (https://i.ibb.co/2y0HSWy/city-2.png)
+!Bar Chart(https://i.ibb.co/2y0HSWy/city-2.png)
 Figure 2: Cities with the Least Readers
 
 It can be seen in Figure 2 that there are some cities with the least readers such as Aberdare, Abilene, and others that only have 1 reader.
@@ -111,7 +116,7 @@ Figure 5: States with the Most Readers
 
 It can be seen in Figure 5 that the country with the most readers is the USA with over 800 unique readers. This number surpasses other countries such as Canada (second place) which only has less than 200 readers.
 
-!Bar Chart (https://i.ibb.co/qFDH1jt/country-2.png)
+!Bar Chart(https://i.ibb.co/qFDH1jt/country-2.png)
 Figure 6: Countries with the Most Readers
 
 It can be seen in Figure 6 that there are some countries with the fewest readers such as Belgium, Brazil, and others that only have 1 reader.
@@ -128,6 +133,7 @@ Figure 8: Readers' Active Status
 In Figure 8, it can be seen that all users/readers in the data are active. Reader status is obtained by seeing if they have a history of reading books in the dataset.
 
 **Readers Who Reads the Most**
+
 ![Bar Chart](https://i.ibb.co/cvkC2BM/reader.png)
 Figure 9: Readers with the Most Reading History
 
@@ -140,7 +146,8 @@ Figure 10: Authors with the Most Works in the Dataset
 The chart in Figure 10 shows that the author with the most works (or in this context, the most books in the dataset) is Stephen King with more than 100 book titles.
 
 **Publishers and Books They Published**
-(https://i.ibb.co/WzgQtYm/publisher.png)
+
+![Bar Chart](https://i.ibb.co/WzgQtYm/publisher.png)
 Figure 11: Publishers that Print the Most Books
 
 Based on the chart in Figure 11, the publisher that prints the most books (or in this context, the most books in the dataset) is Ballantine Books with almost 500 titles.
