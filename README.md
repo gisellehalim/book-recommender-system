@@ -96,7 +96,7 @@ Figure 1: Cities with the Most Readers
 
 It can be seen in Figure 1 that the city with the most readers is Toronto with more than 30 unique readers.
 
-!Bar Chart(https://i.ibb.co/2y0HSWy/city-2.png)
+![Bar Chart](https://i.ibb.co/2y0HSWy/city-2.png)
 Figure 2: Cities with the Least Readers
 
 It can be seen in Figure 2 that there are some cities with the least readers such as Aberdare, Abilene, and others that only have 1 reader.
