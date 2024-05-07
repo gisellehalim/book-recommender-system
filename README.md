@@ -74,7 +74,7 @@ This dataset is divided into 4 different files with .dat format that the author 
 
 In the users_info data, I tidied up the data by separating the 'location' column into 'city', 'state', and 'country' to facilitate the analysis process. Column separation is done with Microsoft Excel.
 
-**items_info** (information about books/items)
+**4. items_info** (information about books/items)
 
         - Book_ID
         - ISBN
