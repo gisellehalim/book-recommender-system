@@ -186,7 +186,7 @@ The advantages of this method are:
 - Helps readers to be aware of new works by their favorite authors.
 - Helpful for new readers to find their book tastes by recommending books based on previous reading (e.g. from the author, or genre). 
 
-The drawbacks of this method are: 
+The drawback of this method is: 
 - CBF is content-based so the recommendations are limited and tend not to be far from their favorite authors or genres.
 
 To test book recommendations with content-based filtering, an example book titled “The Blessing Stone” by Barbara Wood was used. The recommendation model outputs 4 books by Barbara Wood and 1 book by Jill Barnett. The output details can be seen in table 1 below.
@@ -198,6 +198,7 @@ To test book recommendations with content-based filtering, an example book title
 | Bajo El Sol de Kenia | Barbara Wood |
 | Dreaming             | Barbara Wood |
 | Dreaming             | Jill Barnett |
+
 Table 1: Content-Based Filtering Results
 
 **Collaborative Filtering**
@@ -220,6 +221,7 @@ In collaborative filtering, the example of user number 432 is used to see the re
 | This Day All Gods Die: The Gap into Ruin (Gap Series/Stephen R. Donaldson) | Stephen R. Donaldson |
 | Visible Heart (Silhouette Romances #275)                                   | Dixie Browning       |
 | Heaven's Price                                                             | Sandra Brown         |
+
 Table 2: Books that received high ratings from user 432
 
 Based on the books that user 432 likes, the model provides predictions in the form of book recommendations that might be liked (given a high rating) by user 432. The recommendation results for user 432 can be seen in table 3 below.
@@ -234,6 +236,7 @@ Based on the books that user 432 likes, the model provides predictions in the fo
 | Blues Lessons: A Novel                                 | Robert Hellenga           |
 | The Beaver Papers                                      | Will Jacobs               |
 | Understanding Power: The Indispensable Chomsky         | Noam Chomsky              |
+
 Table 3: Book Recommendations for Users 432
 
 ## Evaluation
