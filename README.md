@@ -36,9 +36,11 @@ The purpose of this project is to create a book recommendation system that can p
 In accordance with the problems discussed in the problem statement, to create an effective book recommendation system, machine learning technology is needed. This project will focus on creating a recommendation system with machine learning technology. This will be done with a combination of 2 approaches, namely *content based filtering* and *collaborative filtering*.
 
 *Content Based Filtering*
+
 Recommends books that are similar to books that the author has read or liked based on the author-like features of the book. This is useful for readers who already know their tastes or have a favorite author and want to see similar works. Also, it can help readers to be aware of new works by their favorite authors. In addition to old readers, CBF is useful for new readers to find their book tastes by recommending books based on their previous reading. However, the drawback of CBF is that since it is content-based, the recommendations are limited and tend not to be far from their favorite authors or genres.
 
 *Collaborative Filtering*
+
 Recommend books based on the reading behavior of other users with similar tastes. Collaborative filtering provides book recommendations based on reading history, favorite authors, and more from other users with similar behavior. This opens up opportunities for readers to try books that they haven't read because of different authors or genres. The advantage of this approach is that readers can enjoy a wide range of reading types according to the tastes of other similar readers, allowing them to discover new books they like. But since the system relies on other readers' feedback, it takes many readers with diverse tastes to provide effective recommendations. For new readers, it is also potentially less relevant as their behaviors are not yet established.
 
 ## Data Understanding
