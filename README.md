@@ -116,7 +116,7 @@ Figure 5: States with the Most Readers
 
 It can be seen in Figure 5 that the country with the most readers is the USA with over 800 unique readers. This number surpasses other countries such as Canada (second place) which only has less than 200 readers.
 
-!Bar Chart(https://i.ibb.co/qFDH1jt/country-2.png)
+![Bar Chart](https://i.ibb.co/qFDH1jt/country-2.png)
 Figure 6: Countries with the Most Readers
 
 It can be seen in Figure 6 that there are some countries with the fewest readers such as Belgium, Brazil, and others that only have 1 reader.
@@ -127,6 +127,7 @@ Figure 7: Age Distribution of Readers
 From the histogram above (Figure 7), it can be seen that the average age distribution of readers is less than 60 years old with the majority of readers aged between 20 and less than 60 years old.
 
 **Active and Inactive Readers**
+
 ![Bar Chart](https://i.ibb.co/XVQPGpQ/active.png)
 Figure 8: Readers' Active Status 
 
