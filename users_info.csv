@@ -1,0 +1,2947 @@
+﻿User_ID,City,State,Country,Age
+1,minneapolis,minnesota,usa,24
+2,san diego,california,usa,20
+3,novinger,missouri,usa,16
+4,sonoma,california,usa,34
+5,berkeley,california,usa,23
+6,king of prussia,,,36
+7,berkeley,,,22
+8,rennes,bretagne,france,22
+9,st. louis,missouri,usa,36
+10,minneapolis,minnesota,usa,26
+11,independence,west virginia,usa,30
+12,bellingham,washington,usa,22
+13,hualien,taiwan,taiwan,36
+14,omaha,nebraska,usa,27
+15,sunderland,massachusetts,usa,30
+16,niskayuna,new york,usa,46
+17,bryan,texas,usa,23
+18,frisco,texas,usa,42
+19,jefferson,georgia,usa,34
+20,richland,washington,usa,25
+21,austin,texas,usa,34
+22,milwaukee,wisconsin,usa,42
+23,tehran,tehran,iran,20
+24,knoxville,tennessee,usa,29
+25,groveland,massachusetts,usa,25
+26,elk grove,california,usa,30
+27,bismarck,north dakota,usa,68
+28,barcelona,catalunya,spain,24
+29,orlando,florida,usa,23
+30,meriden,connecticut,usa,46
+31,new orleans,louisiana,usa,48
+32,hixson,tennessee,usa,27
+33,birmingham,alabama,usa,39
+34,albq,new mexico,usa,33
+35,norfolk,virginia,usa,18
+36,litchfield,connecticut,usa,30
+37,charleston,south carolina,usa,30
+38,dodge center,minnesota,usa,26
+39,houston,texas,usa,66
+40,bayan lepas,penang,malaysia,20
+41,lakeland,tennessee,,60
+42,austin,texas,usa,32
+43,cumberland,maryland,usa,29
+44,seattle,washington,usa,26
+45,oradea,bihor,romania,25
+46,vienna,vienna,austria,25
+47,houston,texas,usa,28
+48,wahiawa,hawaii,usa,32
+49,wilmington,north carolina,usa,35
+50,san jose,california,usa,45
+51,wylie,texas,usa,30
+52,strafford,missouri,usa,34
+53,burien,washington,usa,31
+54,coral springs,florida,usa,62
+55,paris,ile de france,france,51
+56,sunnyvale,california,usa,25
+57,apo,ae,usa,28
+58,apo,ae,usa,8
+59,omaha,nebraska,usa,30
+60,saint marys,georgia,usa,30
+61,pasco,washington,usa,28
+62,walnut ridge,arkansas,usa,23
+63,sunnyvale,california,usa,49
+64,winnipeg,manitoba,canada,26
+65,tulsa,,usa,22
+66,knoxville,tennessee,usa,21
+67,altoona,pennsylvania,usa,23
+68,oeiras,lisbon,portugal,27
+69,owings mills,maryland,usa,26
+70,colorado springs,colorado,usa,44
+71,torrance,california,usa,31
+72,carrollton,texas,usa,34
+73,tulsa,oklahoma,usa,26
+74,manchester,kentucky,usa,28
+75,newark,california,usa,36
+76,los angeles,california,usa,28
+77,carrollton,texas,usa,30
+78,orlando,florida,usa,34
+79,calgary,alberta,canada,239
+80,san francisco,california,usa,24
+81,austin,texas,usa,45
+82,paris,ile-de-france,france,47
+83,elizabeth city,north carolina,usa,18
+84,murphysboro,,,37
+85,berlin,berlin,germany,27
+86,durango,colorado,usa,65
+87,glendora,california,usa,24
+88,albuquerque,new mexico,usa,30
+89,waipahu,hawaii,usa,34
+90,whitby,ontario,canada,26
+91,reinbek,schleswig-holstein,germany,27
+92,collings lakes,new jersey,usa,34
+93,glendale,colorado,usa,22
+94,woodstock,georgia,usa,36
+95,pittsburgh,pennsylvania,usa,66
+96,minneapolis,minnesota,usa,44
+97,avon,massachusetts,usa,27
+98,martinsburg,west virginia,usa,15
+99,chicago,illinois,usa,27
+100,shah alam,selangor,malaysia,22
+101,richmond,kentucky,usa,27
+102,kerava,uusimaa,finland,58
+103,tumwater,washington,usa,51
+104,ottawa,ontario,canada,49
+105,houston,texas,usa,21
+106,cincinnati,ohio,usa,25
+107,orillia,ontario,canada,47
+108,davison,michigan,usa,29
+109,west lawn,pennsylvania,usa,42
+110,lakewood,colorado,usa,37
+111,quezon city,national capital region,philippines,26
+112,ploiesti,prahova,romania,18
+113,byron,minnesota,usa,18
+114,selangor,subang jaya,malaysia,22
+115,long beach,california,usa,18
+116,hamburg,hamburg,germany,38
+117,moore,oklahoma,usa,24
+118,getxo,vizcaya,spain,41
+119,zaragoza,aragon,spain,29
+120,harrisburg,pennsylvania,usa,201
+121,fishers,indiana,usa,27
+122,doha,doha,qatar,15
+123,cordova,tennessee,usa,32
+124,lisboa,lisboa,portugal,29
+125,online,n/a,usa,28
+126,lancaster,pennsylvania,usa,36
+127,valencia,valencia,spain,41
+128,paris,paris,france,23
+129,porter,maine,usa,57
+130,coalville,leicestershire,england,35
+131,edmonton,alberta,canada,27
+132,roquemaure,languedoc roussillon,france,33
+133,corvallis,oregon,usa,24
+134,shiki,saitama,japan,24
+135,lake mary,florida,usa,37
+136,benbrook,texas,usa,28
+137,cary,north carolina,usa,34
+138,vitoria,Ã¡lava,spain,23
+139,fresno,california,usa,38
+140,cherry hill,new jersey,usa,21
+141,springfield,missouri,usa,23
+142,charlotte,north carolina,usa,36
+143,sydney,new south wales,australia,27
+144,stratford,new jersey,usa,25
+145,albany,california,usa,44
+146,tarrytown,new york,usa,37
+147,kuala lumpur,,malaysia,47
+148,kitakyushu,fukuoka,japan,32
+149,milwaukee,wisconsin,usa,36
+150,roselle,illinois,usa,33
+151,brewster,new york,usa,40
+152,little rock,arkansas,usa,42
+153,houston,texas,usa,29
+154,mechanicsville,maryland,usa,47
+155,hackettstown,new jersey,usa,53
+156,cadillac,michigan,usa,49
+157,waterloo,ontario,canada,41
+158,stratford,iowa,usa,23
+159,alexandria,virginia,usa,48
+160,zaragoza,zaragoza,spain,23
+161,woodstock,georgia,usa,31
+162,irwin,pennsylvania,usa,38
+163,dublin,dublin,ireland,37
+164,iowa city,iowa,usa,33
+165,roanoke,virginia,usa,43
+166,alabaster,alabama,usa,47
+167,puchong,selangor,malaysia,32
+168,chesterland,ohio,usa,40
+169,kajang,selangor,malaysia,33
+170,southern,california,usa,38
+171,levittown,pennsylvania,usa,36
+172,huntington beach,california,usa,36
+173,menomonie,wisconsin,usa,60
+174,candler,north carolina,usa,54
+175,katonah,new york,usa,19
+176,del aire,california,usa,44
+177,baltimore,maryland,usa,48
+178,lansdale,pennsylvania,usa,32
+179,manchester,new hampshire,,51
+180,saratoga springs,utah,usa,27
+181,sacramento,california,usa,36
+182,grove city,ohio,usa,31
+183,ballston spa,new york,usa,32
+184,livermore,california,usa,51
+185,baltimore,maryland,usa,40
+186,sacramento,california,usa,20
+187,san francisco,california,usa,44
+188,alexandria,virginia,usa,36
+189,duluth,minnesota,usa,28
+190,westwood,new jersey,usa,56
+191,san diego,california,usa,32
+192,madison,wisconsin,usa,21
+193,memphis,tennessee,usa,31
+194,atlanta,georgia,usa,24
+195,san jose,california,usa,31
+196,houston,texas,usa,52
+197,brooklyn,new york,usa,25
+198,castle rock,colorado,usa,51
+199,drums,pennsylvania,usa,29
+200,montgomery,alabama,usa,18
+201,lynbrook,new york,usa,54
+202,franklin,pennsylvania,usa,28
+203,chapel hill,north carolina,usa,56
+204,mcallen,texas,usa,26
+205,burbank,california,usa,41
+206,hopkinsville,kentucky,usa,41
+207,minneapolis,minnesota,usa,25
+208,st. louis,missouri,usa,45
+209,tulsa,oklahoma,usa,22
+210,vineland,new jersey,usa,36
+211,palos hills,illinois,usa,20
+212,lakewood,washington,usa,55
+213,deventer,overijssel,netherlands,37
+214,orlando,florida,usa,40
+215,janesville,wisconsin,usa,36
+216,oswego,new york,usa,32
+217,higley,arizona,usa,29
+218,long island,new york,usa,44
+219,houston,texas,usa,39
+220,skokie,illinois,usa,67
+221,moyock,north carolina,usa,65
+222,la mesa,california,usa,31
+223,chambery,savoie,france,30
+224,derby,derbyshire,united kingdom,38
+225,gilbert,arizona,usa,41
+226,moving,moving,usa,46
+227,austin,texas,usa,33
+228,patton,missouri,usa,24
+229,halifax,nova scotia,canada,18
+230,tuscaloosa,alabama,usa,21
+231,vancouver,british columbia,canada,65
+232,winder,georgia,usa,44
+233,victor,montana,usa,67
+234,hickory,mississippi,usa,41
+235,woodbridge,virginia,usa,37
+236,santa cruz,california,usa,39
+237,herculaneum,missouri,usa,13
+238,cittÃ  di castello,umbria,italy,28
+239,manchester,kentucky,usa,28
+240,baltimore,maryland,usa,49
+241,watertown,massachusetts,usa,29
+242,vancouver,washington,usa,59
+243,bountiful,utah,usa,41
+244,apache junction,arizona,usa,56
+245,beaverton,ontario,canada,32
+246,san diego,,usa,57
+247,long beach,california,usa,33
+248,boerne,texas,usa,34
+249,lima,ohio,usa,28
+250,port clinton,ohio,usa,31
+251,kansas city,missouri,usa,25
+252,grand rapids,michigan,usa,26
+253,south ohio,nova scotia,canada,61
+254,oakwood,georgia,usa,15
+255,altamonte springs,florida,usa,31
+256,springfield,missouri,usa,24
+257,michie,tennessee,usa,33
+258,thunder bay,ontario,canada,18
+259,bad axe,michigan,usa,28
+260,irving,texas,usa,31
+261,norwood,massachusetts,usa,26
+262,paoli,pennsylvania,usa,39
+263,modesto,california,usa,68
+264,asheville,north carolina,usa,38
+265,bolivar,missouri,usa,38
+266,mt. airy,,usa,39
+267,knoxville,tennessee,usa,26
+268,morris,connecticut,usa,53
+269,fullerton,california,usa,38
+270,simi valley,california,usa,37
+271,vancouver,british columbia,canada,37
+272,st. louis,missouri,usa,11
+273,east providence,rhode island,usa,25
+274,manchester,missouri,usa,27
+275,naples,florida,usa,25
+276,wildwood,new jersey,usa,49
+277,auburn,california,usa,25
+278,winnipeg,manitoba,canada,33
+279,newbury park,california,usa,40
+280,st. petersburg,florida,usa,23
+281,corvallis,oregon,usa,22
+282,sydney,new south wales,australia,32
+283,new york,new york,usa,23
+284,gainesville,georgia,usa,31
+285,woodbridge,england,united kingdom,39
+286,halifax,nova scotia,canada,24
+287,saint paul,minnesota,usa,45
+288,richmond,virginia,usa,43
+289,skokie,illinois,usa,67
+290,columbiana,alabama,usa,47
+291,london,england,united kingdom,29
+292,cleveland,ohio,usa,48
+293,sofia,n/a,bulgaria,33
+294,san jose,california,usa,38
+295,henryville,indiana,usa,34
+296,mesa,arizona,usa,75
+297,wilmington,massachusetts,usa,38
+298,kingsville,ontario,canada,26
+299,chula vista,california,usa,51
+300,pinehurst,north carolina,usa,44
+301,jasper,missouri,usa,54
+302,levittown,new york,usa,12
+303,skokie,illinois,usa,52
+304,tacoma,washington,usa,36
+305,bush,louisiana,usa,50
+306,south daytona,florida,usa,24
+307,gta,ontario,canada,29
+308,pipe creek,texas,usa,30
+309,st. rose,louisiana,usa,44
+310,richmond hill,ontario,canada,19
+311,york,south carolina,usa,17
+312,casper,wyoming,usa,49
+313,toulouse,haute-garonne,france,36
+314,olathe,kansas,usa,28
+315,quebec,quebec,canada,22
+316,winnipeg,manitoba,canada,26
+317,calgary,alberta,canada,24
+318,rockwell,north carolina,usa,27
+319,southaven,mississippi,usa,36
+320,richmond hill,ontario,canada,33
+321,winnipeg,manitoba,canada,29
+322,hull,massachusetts,usa,35
+323,barnhart,missouri,usa,24
+324,pittsburgh,pennsylvania,usa,51
+325,burlington,ontario,canada,35
+326,kelowna,british columbia,canada,54
+327,vallejo,california,usa,25
+328,brooklin,ontario,canada,37
+329,henderson,nevada,usa,47
+330,belfort,franche-comtÃ©,france,39
+331,somerville,massachusetts,usa,26
+332,west columbia,south carolina,usa,33
+333,melbourne,victoria,australia,24
+334,gÃ¼tersloh,nordrhein-westfalen,germany,48
+335,wangen,zÃ¼rich,switzerland,40
+336,terre haute,indiana,usa,31
+337,kansas city,missouri,usa,53
+338,pfaffenhofen an der ilm,bayern,germany,32
+339,rochester,new york,usa,34
+340,mentor,ohio,usa,36
+341,shah alam,selangor,malaysia,26
+342,amarillo,texas,usa,39
+343,austin,texas,usa,50
+344,carrboro,north carolina,usa,48
+345,san marcos,california,usa,39
+346,zachary,louisiana,usa,32
+347,hudson,new hampshire,usa,48
+348,hr. grace,newfoundland,canada,24
+349,wisconsin rapids,wisconsin,usa,27
+350,south hadley,massachusetts,usa,29
+351,raleigh,north carolina,usa,56
+352,deland,florida,usa,33
+353,dunnville,ontario,canada,39
+354,mesa,arizona,usa,30
+355,hamilton,ohio,usa,27
+356,whitehorse,yukon territory,canada,41
+357,americus,georgia,usa,33
+358,portland,oregon,usa,27
+359,tulsa,oklahoma,usa,27
+360,guer,bretagne,france,30
+361,medway,kent,united kingdom,36
+362,los angeles,california,usa,33
+363,spring,texas,usa,32
+364,sudbury,massachusetts,usa,18
+365,helsinki,uusimaa,finland,26
+366,cincinnati,ohio,usa,23
+367,williamsburg,virginia,usa,43
+368,roanoke,virginia,usa,50
+369,hayward,california,usa,30
+370,ocala,florida,usa,26
+371,newport beach,california,usa,23
+372,barcelona,catalunya,spain,33
+373,tharston,norwich,england,33
+374,newark,delaware,usa,34
+375,memphis,tennessee,usa,31
+376,kitchener,ontario,canada,17
+377,kingsville,texas,usa,31
+378,helsinki,uusimaa,finland,23
+379,san diego,california,usa,37
+380,berlin,berlin,germany,26
+381,woodbine,maryland,usa,44
+382,three rivers,,,38
+383,san diego,california,usa,37
+384,morris plains,new jersey,usa,45
+385,jacksonville,florida,usa,47
+386,bonn,nordrhein-westfalen,germany,20
+387,boulder,colorado,usa,26
+388,barcelona,catalunya,spain,35
+389,kirkwood,missouri,usa,56
+390,auburn,alabama,usa,32
+391,las vegas,nevada,usa,38
+392,fairless hills,pennsylvania,usa,35
+393,bel air,maryland,usa,25
+394,miami,florida,usa,49
+395,new plymouth,taranaki,new zealand,44
+396,san francisco,california,usa,34
+397,west palm beach,florida,usa,24
+398,sterling heights,michigan,usa,25
+399,derby,derbyshire,united kingdom,40
+400,brainerd,minnesota,usa,37
+401,phoenix,arizona,usa,28
+402,pittsboro,north carolina,usa,53
+403,oklahoma city,oklahoma,usa,40
+404,nanaimo,british columbia,canada,51
+405,orlando,florida,usa,36
+406,san jose,california,usa,42
+407,houston,texas,usa,40
+408,austin,texas,usa,38
+409,datteln,nordrhein-westfalen,germany,40
+410,north little rock,arkansas,usa,34
+411,bellingham,washington,usa,51
+412,buffalo,minnesota,usa,63
+413,kerzers,fribourg,switzerland,42
+414,calgary,alberta,canada,58
+415,clinton twp.,michigan,usa,54
+416,fair haven,new jersey,usa,50
+417,west seneca,new york,usa,33
+418,north york,ontario,canada,47
+419,lethbridge,alberta,canada,29
+420,toronto,ontario,canada,38
+421,clarksville,indiana,usa,26
+422,fredericton,,,42
+423,fresno,california,usa,45
+424,kalamazoo,michigan,usa,21
+425,toronto,ontario,canada,36
+426,sterling,virginia,usa,33
+427,bridgewater,connecticut,usa,57
+428,shrewsbury,massachusetts,usa,26
+429,sacramento,california,usa,27
+430,delano,minnesota,usa,31
+431,granada hills,california,usa,43
+432,fairview,new jersey,usa,28
+433,sydney,new south wales,australia,26
+434,san antonio,texas,usa,29
+435,toronto,ontario,canada,39
+436,lake george,minnesota,usa,54
+437,florence,alabama,usa,31
+438,dallas,texas,usa,29
+439,spring,texas,usa,39
+440,farnborough,england,united kingdom,33
+441,alderson,west virginia,usa,34
+442,elizabethtown,pennsylvania,usa,51
+443,dingmans ferry,pennsylvania,usa,51
+444,flossmoor,illinois,usa,33
+445,recife,pernambuco,brazil,26
+446,paris,ile de france,france,27
+447,san antonio,texas,usa,37
+448,asheville,north carolina,usa,14
+449,northridge,california,usa,35
+450,howell,new jersey,usa,31
+451,houston,texas,usa,34
+452,ellensburg,washington,usa,42
+453,elmhurst,illinois,usa,33
+454,stillwater,oklahoma,usa,29
+455,ransomville,new york,usa,37
+456,scottsdale,arizona,usa,52
+457,lubbock,texas,usa,34
+458,ottawa,ontario,canada,32
+459,toronto,ontario,canada,40
+460,concordia,missouri,usa,43
+461,delaware water gap,pennsylvania,usa,16
+462,portland,oregon,usa,40
+463,vienna,vienna,austria,18
+464,florence,arizona,usa,35
+465,lemon grove,california,usa,51
+466,cleveland,oklahoma,usa,24
+467,peoria,arizona,usa,44
+468,west jordan,utah,usa,38
+469,thibodaux,louisiana,usa,41
+470,barcelona,,,26
+471,san francisco,california,usa,38
+472,deer mountain,utah,usa,26
+473,.,kansas,usa,37
+474,san antonio,texas,,35
+475,staten island,new york,usa,40
+476,catonsville,maryland,usa,48
+477,new hartford,new york,usa,27
+478,clintonville,wisconsin,usa,40
+479,minneapolis,minnesota,usa,58
+480,lebanon,pennsylvania,usa,36
+481,oceanside,california,usa,62
+482,palm bay,florida,usa,36
+483,toronto,ontario,canada,32
+484,prince albert,saskatchewan,canada,52
+485,columbus,ohio,usa,30
+486,milwaukee,wisconsin,usa,48
+487,shelbyville,kentucky,usa,48
+488,adrian,michigan,usa,41
+489,lawrenceville,georgia,usa,54
+490,long beach,california,usa,34
+491,phoenix,arizona,usa,49
+492,orange county,california,usa,24
+493,brantford,ontario,canada,34
+494,wichita,,kansas,59
+495,jasper,missouri,usa,31
+496,west fairlee,vermont,usa,43
+497,burlington,ontario,canada,37
+498,richmond,california,usa,49
+499,houston,texas,usa,47
+500,calais,pas de calais,france,32
+501,lombard,illinois,usa,61
+502,lisboa,n/a,portugal,31
+503,safety harbor,florida,usa,38
+504,livermore,california,usa,45
+505,toccoa,ga.,usa,33
+506,three hills,alberta,canada,38
+507,yuba city,california,usa,61
+508,bellevue,washington,usa,42
+509,orlando,florida,usa,29
+510,fullerton,california,usa,36
+511,sterlington,louisiana,usa,21
+512,toronto,ontario,canada,34
+513,south burlington,vermont,usa,52
+514,minneapolis,minnesota,usa,34
+515,puyallup,washington,usa,28
+516,minneapolis,minnesota,usa,25
+517,thalwil,zurich,switzerland,40
+518,barreiro,barreiro,portugal,30
+519,brest,bretagne,france,22
+520,bloomington,indiana,usa,55
+521,lacey,washington,usa,59
+522,bartlesville,oklahoma,usa,27
+523,philadelphia,pennsylvania,usa,24
+524,kaiserslautern,rheinland-pfalz,germany,27
+525,north haven,connecticut,usa,43
+526,austin,texas,usa,50
+527,nashua,new hampshire,usa,33
+528,pine beach,new jersey,usa,35
+529,calgary,alberta,canada,34
+530,burlington,north carolina,usa,44
+531,seattle,washington,usa,33
+532,austin,texas,usa,47
+533,moore,oklahoma,usa,25
+534,torrance,california,usa,48
+535,mendon,massachusetts,usa,57
+536,kitchener,ontario,canada,18
+537,lexington,kentucky,usa,42
+538,clearwater,florida,usa,37
+539,rapid city,south dakota,usa,25
+540,antioch,illinois,usa,43
+541,chatham,ontario,canada,35
+542,calgary,alberta,canada,37
+543,dartmouth,nova scotia,canada,28
+544,plantersville,texas,usa,45
+545,roscoe,minnesota,usa,17
+546,leeds,england,united kingdom,22
+547,pickering,ontario,canada,19
+548,wien,wien,austria,35
+549,tijeras,nm,usa,40
+550,n/a,surrey,united kingdom,63
+551,sturgis,michigan,usa,22
+552,rural hall,north carolina,usa,39
+553,merrifield,minnesota,usa,26
+554,escondido,california,usa,23
+555,monroe twp.,new jersey,usa,52
+556,lawton,oklahoma,usa,30
+557,roswell,georgia,usa,32
+558,new york,new york,usa,38
+559,spring hill,florida,usa,35
+560,tigard,oregon,usa,39
+561,rudersberg,baden-wÃ¼rttemberg,germany,29
+562,portland,oregon,usa,27
+563,wilmington,delaware,usa,43
+564,costa mesa,california,usa,19
+565,palmdale,california,usa,14
+566,peel,isle of man,united kingdom,23
+567,denver,colorado,usa,36
+568,baltimore,maryland,usa,33
+569,douglasville,georgia,usa,54
+570,cold lake,alberta,canada,35
+571,batavia,new york,usa,58
+572,allston,massachusetts,usa,34
+573,san antonio,texas,usa,28
+574,sarasota,florida,usa,19
+575,victoria,british columbia,canada,37
+576,owen sound,ontario,canada,36
+577,houston,texas,usa,33
+578,markham,ontario,canada,41
+579,plano,texas,usa,24
+580,centreville,virginia,usa,24
+581,pasadena,california,usa,27
+582,kingwood,texas,usa,27
+583,okemos,michigan,usa,29
+584,brooklyn,new york,usa,40
+585,elizabeth city,north carolina,usa,35
+586,alvin,texas,usa,47
+587,middletown,delaware,usa,52
+588,st. marys,georgia,usa,50
+589,bardonia,new york,usa,43
+590,basingstoke,england,united kingdom,37
+591,chardon,ohio,usa,41
+592,edwardsville,illinois,usa,57
+593,manchester,new hampshire,usa,38
+594,aberdare,wales,united kingdom,24
+595,erstein,alsace,france,33
+596,sacramento,california,usa,25
+597,charleston,south carolina,usa,50
+598,riverside public library,illinois,usa,53
+599,jamaica plain,massachusetts,usa,41
+600,ebensee,oberoesterreich,austria,44
+601,walnut creek,california,usa,65
+602,lake placid,florida,usa,25
+603,dayton,maine,usa,41
+604,villanova,pennsylvania,usa,58
+605,tucson,arizona,usa,63
+606,las cruces,new mexico,usa,44
+607,yarmouth,nova scotia,canada,9
+608,lake mary,florida,usa,30
+609,el cajon,california,usa,26
+610,cudahy,wisconsin,usa,40
+611,wahiawa,hawaii,usa,31
+612,dublin,texas,usa,50
+613,new milford,connecticut,usa,47
+614,milwaukee,wisconsin,usa,39
+615,hi nella,new jersey,usa,27
+616,chesterfield,derbyshire,united kingdom,39
+617,redwood city,california,usa,23
+618,fairfax,virginia,usa,23
+619,eufaula,alabama,usa,22
+620,chesapeake,virginia,,41
+621,torrance,california,usa,15
+622,waterloo,ontario,canada,45
+623,pomona,california,usa,39
+624,emporia,kansas,usa,28
+625,peru,illinois,usa,43
+626,rapid city,south dakota,usa,36
+627,edmonton,alberta,canada,28
+628,colorado springs,colorado,usa,43
+629,smyrna,georgia,usa,46
+630,san ramon,california,usa,36
+631,atlanta,georgia,usa,34
+632,murfreesboro,tennessee,usa,33
+633,normal,illinois,usa,34
+634,longmont,colorado,usa,28
+635,browns mills,new jersey,usa,54
+636,san diego,california,usa,30
+637,uniontown,ohio,usa,58
+638,saginaw,michigan,usa,42
+639,tulsa,oklahoma,usa,26
+640,syracuse,new york,usa,32
+641,coffs harbour,new south wales,australia,40
+642,salem,virginia,usa,29
+643,aptos,california,usa,28
+644,factoryville,pennsylvania,usa,34
+645,pierrefonds,quebec,canada,29
+646,berlin,berlin,germany,16
+647,astoria,new york,usa,27
+648,orange park,florida,usa,67
+649,san jose,california,usa,55
+650,athens,ohio,usa,28
+651,fort myers,florida,usa,42
+652,kuching,sarawak,malaysia,31
+653,vero beach,florida,usa,57
+654,denver,colorado,usa,13
+655,bloomfield,new jersey,usa,50
+656,danbury,connecticut,usa,31
+657,oakland,california,usa,45
+658,sierra madre,california,usa,42
+659,wrightstown,,,47
+660,rainsville,alabama,usa,12
+661,houston,texas,usa,50
+662,lincoln city,oregon,usa,53
+663,brooklyn,new york,usa,34
+664,virginia beach,virginia,usa,22
+665,la crosse,wisconsin,usa,50
+666,chickasha,oklahoma,usa,28
+667,downieville,california,usa,49
+668,hendersonville,north carolina,usa,59
+669,lewes,delaware,usa,46
+670,miami,florida,usa,37
+671,aurora,illinois,usa,26
+672,drayton valley,alberta,canada,55
+673,new york,new york,usa,42
+674,cross plains,wisconsin,usa,31
+675,mooresville,north carolina,usa,55
+676,mililani,hawaii,usa,46
+677,nebraska city,nebraska,usa,29
+678,ede,gelderland,netherlands,36
+679,bakersfield,california,usa,39
+680,philadelphia,pennsylvania,usa,33
+681,west sacramento,california,usa,24
+682,minneapolis,minnesota,usa,32
+683,augusta,maine,usa,41
+684,asniÃ¨res,ile de france,france,34
+685,weesp,noord holland,netherlands,36
+686,pinehurst,north carolina,usa,43
+687,st. john`s,ontario,canada,30
+688,winnipeg,manitoba,canada,19
+689,carbonear,newfoundland,canada,25
+690,ottawa,ontario,canada,56
+691,omaha,nebraska,usa,23
+692,ithaca,new york,usa,36
+693,crescent city,florida,usa,57
+694,asheville,north carolina,usa,35
+695,hamburg,hamburg,germany,26
+696,prince george,british columbia,canada,53
+697,warwick,rhode island,usa,18
+698,melbourne,victoria,australia,49
+699,new haven,connecticut,usa,36
+700,hauppauge,long island,new york,57
+701,glasgow,scotland,united kingdom,23
+702,cumberland,maryland,usa,30
+703,phoenix,arizona,usa,29
+704,ottawa,ontario,canada,62
+705,west los angeles,california,usa,23
+706,port coquitlam,british columbia,canada,28
+707,columbia,missouri,usa,22
+708,valley center,kansas,usa,26
+709,mainz,rheinland-pfalz,germany,34
+710,houston,texas,usa,21
+711,somerville,massachusetts,usa,23
+712,new york,new york,usa,37
+713,ottawa,ontario,canada,40
+714,albuquerque,new mexico,usa,33
+715,samieira,pontevedra,spain,49
+716,milford,iowa,usa,15
+717,clovis,california,usa,48
+718,paris,illinois,usa,103
+719,niedernhausen,hessen,germany,24
+720,oulu,pohjois-pohjanmaa,finland,24
+721,gordonsville,virginia,usa,39
+722,watertown,new york,usa,31
+723,vanves,ile-de-france,france,44
+724,brush valley,pennsylvania,usa,20
+725,little rock,arkansas,usa,35
+726,seattle,washington,usa,29
+727,san diego,california,usa,33
+728,astoria,new york,usa,38
+729,almada,setÃºbal,portugal,27
+730,denver,colorado,usa,30
+731,montrose,california,usa,29
+732,san diego,california,usa,21
+733,san gabriel,california,usa,24
+734,lacey,washington,usa,28
+735,pampa,texas,usa,23
+736,capitola,california,usa,40
+737,peterborough,new hampshire,usa,28
+738,lansdale,pennsylvania,usa,61
+739,pineville,pennsylvania,usa,28
+740,castlegar,british columbia,canada,20
+741,seattle,washington,usa,39
+742,birmingham,alabama,usa,49
+743,macomb,michigan,usa,21
+744,turners falls,massachusetts,usa,24
+745,hamburg,hamburg,germany,35
+746,,illinois,usa,29
+747,darmstadt,hessen,germany,31
+748,geneva,illinois,usa,36
+749,gainesville,florida,usa,27
+750,west point,virginia,usa,26
+751,charleston,west virginia,usa,33
+752,amsterdam,noord-holland,netherlands,35
+753,buffalo,minnesota,usa,30
+754,norwich,england,united kingdom,28
+755,buckfield,maine,usa,33
+756,sioux falls,south dakota,usa,49
+757,comox,british columbia,canada,71
+758,lisboa,lisboa,portugal,25
+759,clarksville,tennessee,usa,34
+760,olympia,washington,usa,58
+761,zanesville,ohio,usa,103
+762,orange park,florida,usa,37
+763,santa clarita,california,usa,55
+764,seattle,washington,usa,36
+765,snellville,georgia,usa,17
+766,london,england,united kingdom,38
+767,marietta,georgia,usa,57
+768,little rock,arkansas,usa,49
+769,easley,south carolina,usa,19
+770,sacramento,california,usa,25
+771,durango,colorado,usa,21
+772,louisville,kentucky,usa,33
+773,menomonee falls,wisconsin,usa,18
+774,ottawa,ontario,canada,25
+775,gig harbor,washington,usa,51
+776,mission viejo,california,usa,43
+777,atlantic highlands,new jersey,usa,29
+778,charleston,south carolina,usa,33
+779,enfield,connecticut,usa,32
+780,mount airy,maryland,usa,24
+781,el cajon,california,usa,40
+782,chantilly,virginia,usa,49
+783,honolulu,hawaii,usa,28
+784,daphne,alabama,usa,58
+785,wien,wien,austria,39
+786,amadora,lisboa,portugal,29
+787,fairbanks,alaska,usa,37
+788,spruce grove,alberta,canada,43
+789,childersburg,alabama,usa,37
+790,south plainfield,new jersey,usa,55
+791,nottingham,england,united kingdom,27
+792,st. louis,missouri,usa,24
+793,athens,georgia,usa,58
+794,mackay,queensland,australia,26
+795,hickory,north carolina,usa,23
+796,chesapeake,virginia,usa,35
+797,salt lake city,utah,usa,28
+798,olympia,washington,usa,35
+799,olympia,wa,usa,34
+800,overland park,kansas,usa,24
+801,lisboa,lisboa,portugal,32
+802,warminster,wiltshire,united kingdom,20
+803,st louis,missouri,usa,43
+804,new castle,delaware,usa,27
+805,warrensburg,missouri,usa,33
+806,middleburg,virginia,usa,41
+807,freiburg,baden-wÃ¼rttemberg,germany,46
+808,romsey,hampshire,united kingdom,18
+809,maia,porto,portugal,20
+810,shanghai,shanghai,china,17
+811,london,england,united kingdom,28
+812,savannah,georgia,usa,20
+813,cambridge,massachusetts,usa,25
+814,mesa,arizona,usa,28
+815,san antonio,texas,usa,28
+816,carrollton,kentucky,usa,57
+817,bluffton,south carolina,,36
+818,sacramento,california,usa,37
+819,springfield,illinois,usa,35
+820,horsham,west sussex,united kingdom,42
+821,minneapolis,minnesota,usa,34
+822,nashville,tennessee,usa,30
+823,oshawa,ontario,canada,46
+824,namur,namur,belgium,26
+825,yulee,florida,usa,47
+826,nashville,tennessee,usa,21
+827,san antonio,texas,usa,40
+828,richmond,virginia,usa,59
+829,austin,texas,usa,52
+830,tulsa,oklahoma,usa,45
+831,trenton,ontario,canada,35
+832,northridge,california,usa,60
+833,edison,new jersey,usa,41
+834,raleigh,north carolina,usa,57
+835,covington,virginia,usa,34
+836,boone,iowa,usa,33
+837,iowa city,,,52
+838,north dartmouth,massachusetts,usa,31
+839,las vegas,nevada,usa,65
+840,abilene,texas,usa,37
+841,berlin,berlin,germany,40
+842,philadelphia,pennsylvania,usa,39
+843,philadelphia,pennsylvania,usa,25
+844,apopka,,,30
+845,king george,virginia,usa,58
+846,hong kong,hong kong,hong kong,37
+847,gloversville,new york,usa,17
+848,chisholm,minnesota,usa,23
+849,tÃ¼bingen,baden-wuerttemberg,germany,33
+850,victoria,british columbia,canada,36
+851,cleveland,ohio,usa,49
+852,san diego,california,usa,25
+853,cottage grove,oregon,usa,41
+854,savannah,georgia,usa,37
+855,pawtucket,rhode island,usa,40
+856,portland,oregon,usa,40
+857,morgantown,west virginia,usa,25
+858,alexandria,virginia,usa,45
+859,mississauga,ontario,canada,35
+860,sydney,new south wales,australia,26
+861,new york,new york,usa,24
+862,cornwall,prince edward island,canada,25
+863,vista,california,usa,39
+864,toledo,ohio,usa,26
+865,cumming,georgia,usa,58
+866,rison,arkansas,usa,39
+867,conway,arkansas,usa,38
+868,oklahoma city,oklahoma,usa,29
+869,forest grove,oregon,usa,59
+870,whitehall,ohio,usa,53
+871,auburn hills,michigan,usa,23
+872,lexington,kentucky,usa,31
+873,essex,connecticut,usa,38
+874,blythewood,south carolina,usa,36
+875,yarmouth,nova scotia,canada,19
+876,wallingford,connecticut,usa,52
+877,new york,new york,usa,20
+878,portland,maine,usa,25
+879,n/a,n/a,malaysia,15
+880,gladewater,texas,usa,44
+881,toledo,ohio,usa,56
+882,fort worth,texas,usa,25
+883,jacksonville,north carolina,usa,30
+884,thermopolis,wyoming,usa,44
+885,hamburg,hamburg,germany,24
+886,severna park,maryland,usa,77
+887,toronto,ontario,canada,36
+888,quezon city,ncr,philippines,19
+889,heemstede,noord-holland,netherlands,27
+890,lanham,maryland,usa,83
+891,laval,quebec,canada,44
+892,shanghai,shanghai,china,30
+893,st. clair shores,michigan,usa,31
+894,arcata,california,usa,25
+895,cary,north carolina,usa,39
+896,mason,ohio,usa,43
+897,calgary,alberta,canada,76
+898,gateshead,england,united kingdom,26
+899,santa rosa,california,usa,61
+900,colorado springs,colorado,usa,29
+901,chambersburg,pennsylvania,usa,23
+902,montreal,quebec,canada,28
+903,victoria,british columbia,canada,30
+904,athens,alabama,usa,57
+905,norfolk,virginia,usa,40
+906,cornwall,new york,,34
+907,strasbourg,alsace,france,23
+908,queens,new york,usa,41
+909,rye,new hampshire,usa,40
+910,gaithersburg,maryland,usa,50
+911,evansville,indiana,usa,29
+912,rangoon,rangoon,burma,136
+913,raleigh,north carolina,united states,49
+914,anytown,new york,usa,37
+915,holtsville,,,54
+916,maynooth,kildare,ireland,40
+917,blanco,texas,usa,63
+918,upper marlboro,maryland,usa,33
+919,casper,wyoming,usa,35
+920,chicago,illinois,usa,26
+921,mcleansville,north carolina,usa,39
+922,kuala lumpur,kuala lumpur,malaysia,31
+923,glasgow,scotland,united kingdom,30
+924,doha,doha,qatar,29
+925,farncombe,surrey,united kingdom,34
+926,french camp,california,usa,21
+927,new westminster,british columbia,canada,40
+928,terre haute,indiana,usa,20
+929,tampa,florida,usa,57
+930,dortmund,nordrhein-westfalen,germany,26
+931,baker city,oregon,usa,29
+932,saint john,new brunswick,canada,32
+933,pittsburgh,pennsylvania,usa,46
+934,manistee,michigan,usa,60
+935,london,england,united kingdom,45
+936,fallon,nevada,usa,47
+937,nashua,new hampshire,usa,52
+938,cedar rapids,iowa,usa,34
+939,sherwood park,alberta,canada,22
+940,leeds,england,united kingdom,31
+941,glenside,rheinland-pfalz,usa,52
+942,farmington hills,michigan,usa,30
+943,plano,texas,usa,35
+944,palm desert,california,usa,1
+945,tustin,,,72
+946,baton rouge,louisiana,usa,54
+947,halifax,,,26
+948,halfmoon bay,british columbia,canada,70
+949,san diego,california,usa,56
+950,madrid,madrid,spain,28
+951,adelphi,maryland,usa,43
+952,oakland,new jersey,usa,44
+953,tacoma,washington,usa,24
+954,o fallon,missouri,usa,31
+955,cleveland,ohio,usa,24
+956,washington court house,ohio,usa,38
+957,christchurch,canterbury,new zealand,27
+958,brick,new jersey,usa,40
+959,san jose,california,usa,37
+960,surrey,british columbia,canada,58
+961,sant cugat del vallÃ¨s,catalunya,spain,39
+962,alverca,ribatejo,portugal,25
+963,bellingham,washington,usa,69
+964,rock creek,british columbia,canada,59
+965,charleston,west virginia,usa,33
+966,austin,texas,usa,33
+967,chester,cheshire,united kingdom,42
+968,canoga park,california,usa,38
+969,glasgow,scotland,united kingdom,46
+970,philadelphia,pennsylvania,usa,37
+971,guelph,ontario,canada,29
+972,mason,ohio,usa,27
+973,bloomfield,new jersey,usa,17
+974,manchester,new hampshire,usa,36
+975,santa ana,california,usa,28
+976,ottawa,ontario,canada,29
+977,brooklyn,new york,usa,34
+978,houston,texas,usa,51
+979,aiken,south carolina,usa,31
+980,rochester,new york,usa,29
+981,vila nova de gaia,porto,portugal,26
+982,barcelona,catalunya,spain,36
+983,seville grove,western australia,australia,27
+984,jerez de la frontera,cadiz,spain,34
+985,springfield,virginia,usa,43
+986,winston salem,north carolina,usa,28
+987,sevilla,sevilla,spain,28
+988,minneapolis,minnesota,usa,42
+989,elizabeth city,north carolina,usa,13
+990,londonderry,new hampshire,usa,24
+991,costa de caparica,lisbon,portugal,29
+992,bielefeld,nordrhein-westfalen,germany,43
+993,vancouver,british columbia,canada,25
+994,castro valley,california,usa,46
+995,schenectady,new york,usa,46
+996,traverse city,michigan,usa,40
+997,omaha,nebraska,usa,34
+998,vancouver,british columbia,canada,56
+999,north vancouver,british columbia,canada,35
+1000,espoo,uusimaa,finland,24
+1001,st. petersburg,florida,usa,40
+1002,west blocton,alabama,usa,45
+1003,morrow,georgia,usa,52
+1004,yuma,arizona,usa,17
+1005,columbia,south carolina,usa,43
+1006,vancouver,british columbia,canada,58
+1007,kuwait,kuwait,kuwait,17
+1008,selayang,selangor,malaysia,26
+1009,norfolk,virginia,usa,32
+1010,cincinnati,ohio,usa,29
+1011,fairbanks,alaska,usa,30
+1012,calgary,alberta,canada,25
+1013,richboro,pennsylvania,usa,30
+1014,melbourne,victoria,australia,26
+1015,colorado springs,colorado,usa,49
+1016,billings,montana,usa,28
+1017,toronto,ontario,canada,32
+1018,white plains,new york,usa,25
+1019,muskegon,michigan,usa,30
+1020,seattle,washington,usa,33
+1021,framingham,massachusetts,usa,24
+1022,lockport,new york,usa,14
+1023,victoria,british columbia,canada,49
+1024,burnley,england,united kingdom,26
+1025,new lenox,illinois,usa,42
+1026,tehran,tehran,iran,36
+1027,brunswick,ohio,usa,37
+1028,bay area,california,usa,38
+1029,dublin,co. dublin,ireland,46
+1030,heilbronn,baden-wuerttemberg,germany,26
+1031,london,england,united kingdom,54
+1032,london,england,united kingdom,30
+1033,buxton,maine,usa,44
+1034,tenafly,new jersey,usa,54
+1035,plainfield,illinois,usa,39
+1036,seattle,washington,usa,34
+1037,cincinnati,ohio,usa,57
+1038,ft huachuca,arizona,usa,44
+1039,minden,ontario,canada,46
+1040,chesapeake,virginia,usa,68
+1041,milwaukee,wisconsin,usa,29
+1042,miami,florida,usa,41
+1043,niagara falls,ontario,canada,32
+1044,winthrop harbor,illinois,usa,25
+1045,keizer,oregon,usa,29
+1046,nicholasville,kentucky,usa,38
+1047,stuttgart,baden-wuerttemberg,germany,44
+1048,saint clair,michigan,usa,52
+1049,marseilles,illinois,usa,54
+1050,modesto,california,usa,14
+1051,honolulu,hawaii,usa,34
+1052,ottawa,ontario,canada,22
+1053,olympia,washington,usa,54
+1054,columbus,ohio,usa,30
+1055,st louis,missouri,usa,44
+1056,tucson,arizona,usa,55
+1057,linz,oberoesterreich,austria,24
+1058,st. paul,minnesota,usa,25
+1059,springfield,missouri,usa,24
+1060,florence,alabama,usa,65
+1061,chattanooga,tennessee,usa,39
+1062,coatesville,pennsylvania,usa,60
+1063,athens,georgia,usa,28
+1064,bronx,,,29
+1065,federal way,washington,usa,65
+1066,eugene,oregon,usa,45
+1067,middletown,ohio,usa,29
+1068,sacramento,california,usa,53
+1069,los angeles,california,usa,39
+1070,brainerd,minnesota,usa,39
+1071,bend,oregon,,34
+1072,teaneck,new jersey,usa,48
+1073,cave creek,arizona,usa,25
+1074,altoona,iowa,usa,30
+1075,woodstock,maryland,usa,19
+1076,madison,wisconsin,usa,21
+1077,morehead,kentucky,usa,43
+1078,kuala lumpur,federal territory,malaysia,22
+1079,edmonton,alberta,canada,29
+1080,north york,ontario,canada,32
+1081,st. louis,missouri,usa,35
+1082,pittsburgh,pennsylvania,usa,34
+1083,la mesa,california,usa,15
+1084,montreal,quebec,canada,25
+1085,zaragoza,aragÃ³n,spain,22
+1086,calgary,alberta,canada,28
+1087,london,ontario,canada,23
+1088,tampa,florida,usa,27
+1089,anchorage,alaska,usa,41
+1090,oakland,california,usa,26
+1091,santa rosa,california,usa,29
+1092,lorton,virginia,usa,32
+1093,chicago,illinois,usa,38
+1094,paducah,kentucky,usa,28
+1095,lexington,kentucky,usa,23
+1096,independence,missouri,usa,57
+1097,dunkirk,indiana,usa,39
+1098,hamilton,ontario,canada,48
+1099,indianapolis,indiana,usa,45
+1100,appleton,wisconsin,usa,50
+1101,west kensington,london,united kingdom,31
+1102,denver,colorado,usa,28
+1103,orlando,florida,usa,32
+1104,oak lawn,illinois,usa,39
+1105,chunchula,alabama,usa,18
+1106,lisboa,lisboa,portugal,27
+1107,greenfield,wisconsin,usa,29
+1108,indianapolis,indiana,usa,29
+1109,canton,ga,usa,14
+1110,richmond,virginia,usa,66
+1111,appleton,wisconsin,usa,22
+1112,rochester,michigan,usa,37
+1113,mountain view,california,usa,34
+1114,irvine,,,49
+1115,roseburg,oregon,usa,32
+1116,orlando,florida,usa,49
+1117,fort polk,louisiana,usa,31
+1118,san jose,california,usa,48
+1119,Ã©l mÃ©dano,santa cruz de tenerife,canary islands,57
+1120,voorhees,new jersey,usa,43
+1121,virginia beach,virginia,usa,39
+1122,west concord,minnesota,usa,34
+1123,singapore,singapore,singapore,37
+1124,oklahoma city,oklahoma,usa,30
+1125,brentwood,california,usa,40
+1126,edmonton,alberta,canada,50
+1127,renton,washington,usa,31
+1128,arab,alabama,usa,25
+1129,sydney,new south wales,australia,59
+1130,noblesville,indiana,usa,71
+1131,norwich,england,united kingdom,27
+1132,philadelphia,pennsylvania,usa,23
+1133,toronto,ontario,canada,52
+1134,houston,texas,usa,31
+1135,baltimore,maryland,usa,45
+1136,montreal,quebec,canada,39
+1137,virginia beach,virginia,usa,22
+1138,san diego,california,usa,29
+1139,brooklyn,new york,usa,35
+1140,fairfax,virginia,usa,29
+1141,fredericton,new brunswick,canada,30
+1142,binghamton,new york,usa,22
+1143,wrexham,wales,united kingdom,59
+1144,milpitas,california,usa,36
+1145,kirkland,washington,usa,46
+1146,wiley ford,west virginia,usa,43
+1147,san antonio,texas,usa,21
+1148,belton,texas,usa,53
+1149,orlando,florida,usa,45
+1150,tiburon,california,usa,53
+1151,sabine pass,texas,usa,38
+1152,mannford,oklahoma,usa,23
+1153,albuquerque,new mexico,usa,30
+1154,barren springs,virginia,usa,43
+1155,lakewood,washington,usa,17
+1156,tucson,arizona,usa,25
+1157,spencer,indiana,usa,35
+1158,brisbane,queensland,australia,49
+1159,paramus,nj,usa,48
+1160,ottawa,ontario,canada,27
+1161,sydney,new south wales,australia,22
+1162,dallas,texas,usa,37
+1163,bronx,new york,usa,29
+1164,west new york,new jersey,usa,35
+1165,kitchener,ontario,canada,18
+1166,davenport,iowa,usa,31
+1167,vancouver,british columbia,canada,25
+1168,evanston,illinois,usa,25
+1169,calgary,alberta,canada,40
+1170,bratenahl,ohio,usa,49
+1171,pittsburgh,pennsylvania,usa,37
+1172,frankfurt am main,hessen,germany,29
+1173,st. clairsville,ohio,usa,25
+1174,melbourne,victoria,australia,25
+1175,baltimore,maryland,usa,31
+1176,webster,new york,usa,16
+1177,plano,texas,usa,39
+1178,tokyo,tokyo,japan,30
+1179,london,england,united kingdom,42
+1180,mechanicsville,maryland,usa,33
+1181,edinburg,texas,usa,27
+1182,alexandria,virginia,usa,34
+1183,cardiff,wales,united kingdom,26
+1184,antelope,california,usa,35
+1185,san francisco,california,usa,23
+1186,la crosse,wisconsin,usa,29
+1187,edmonton,alberta,canada,31
+1188,temple,texas,usa,37
+1189,asheville,north carolina,usa,43
+1190,sherman oaks,california,usa,29
+1191,st. peters,missouri,usa,32
+1192,cincinnati,ohio,usa,30
+1193,sydney,new south wales,australia,22
+1194,toronto,ontario,canada,50
+1195,darlington,south carolina,usa,23
+1196,las vegas,,usa,16
+1197,blacksburg,virginia,usa,33
+1198,hutchinson,kansas,usa,60
+1199,bolton,lancashire,united kingdom,27
+1200,allentown,pennsylvania,usa,36
+1201,london,ontario,canada,28
+1202,glendale heights,illinois,usa,31
+1203,cornelius,oregon,usa,21
+1204,framingham,massachusetts,usa,39
+1205,oisterwijk,noord-brabant,netherlands,46
+1206,colonial heights,virginia,usa,30
+1207,pickering,ontario,canada,47
+1208,tehran,tehran,iran,29
+1209,paullina,iowa,usa,38
+1210,canton,georgia,usa,71
+1211,san antonio,texas,usa,38
+1212,ann arbor,michigan,usa,24
+1213,toronto,ontario,canada,30
+1214,st louis,missouri,usa,66
+1215,some other,planet,far away...,29
+1216,rock hill,south carolina,usa,30
+1217,fredericton,new brunswick,canada,31
+1218,moline,illinois,usa,26
+1219,stamford,connecticut,usa,34
+1220,evanston,illinois,usa,50
+1221,legionowo,woj. mazowieckie,poland,24
+1222,calgary,alberta,canada,29
+1223,joburg,gautang,south africa,18
+1224,darwin,northern territory,australia,23
+1225,owasso,oklahoma,usa,37
+1226,bartlesville,oklahoma,usa,59
+1227,killeen,texas,usa,62
+1228,toronto,ontario,canada,34
+1229,boise,idaho,usa,46
+1230,bolton,england,united kingdom,31
+1231,fpo,ap,usa,12
+1232,chicago,illinois,usa,168
+1233,bothell,washington,usa,16
+1234,rotterdam,,netherlands,32
+1235,north vancouver,british columbia,canada,30
+1236,winnipeg,manitoba,canada,33
+1237,wokingham,berkshire,united kingdom,24
+1238,centennial,colorado,usa,53
+1239,preston,lancashire,england,32
+1240,merrick, usa,new york,59
+1241,olympia,,,59
+1242,boyce,,,46
+1243,ourense,,,39
+1244,singapore,,,38
+1245,san bernardino,,,31
+1246,munster,,,27
+1247,boston,,,27
+1248,monessen,,,38
+1249,washington dc,,,32
+1250,arlington,,,30
+1251,galt,,,41
+1252,columbia,,,63
+1253,petaling jaya,,,23
+1254,balmain,,,148
+1255,ballston spa,,,38
+1256,atlanta,,,54
+1257,memphis,,,39
+1258,vancouver,,,32
+1259,kamuela,,,48
+1260,vancouver,,,29
+1261,coralville,,,27
+1262,tucson,,,30
+1263,juneau,,,38
+1264,omemee,,,46
+1265,elm grove,,,38
+1266,halifax,,,32
+1267,morrisville,,,45
+1268,carmichael,,,27
+1269,circleville,,,20
+1270,brea,,,31
+1271,los banos,,,17
+1272,geelong,,,22
+1273,newark,,,25
+1274,oromocto,,,37
+1275,mount vernon,,,25
+1276,topeka,,,18
+1277,phoenix,,,46
+1278,amarillo,,,32
+1279,muskegon,,,25
+1280,prince george,,,24
+1281,stockton,,,25
+1282,salem,,,53
+1283,tallahassee,,,36
+1284,wellston,,,37
+1285,brights grove,,,38
+1286,hertfordshire,,,23
+1287,warren,,,32
+1288,redford,,,23
+1289,amarillo,,,32
+1290,old orchard beach,,,46
+1291,lafayette,,,27
+1292,vancouver,,,44
+1293,new york,,,22
+1294,montreal,,,18
+1295,atlanta,,,40
+1296,dortmund,,,25
+1297,louisville,,,43
+1298,wien,,,26
+1299,irvine,,,40
+1300,kingston,,,35
+1301,elmira,,,28
+1302,atlanta,,,17
+1303,tehran,,,36
+1304,london,,,25
+1305,moscow,,,31
+1306,wilmington,,,36
+1307,marietta,,,51
+1308,ramsey,,,41
+1309,kernersville,,,26
+1310,arkansas,,,28
+1311,westmont,,,31
+1312,belgorod,,,23
+1313,north reading,,,27
+1314,newmarket,,,33
+1315,stone mountain,,,34
+1316,fulton,,,38
+1317,wolverhampton,,,44
+1318,west chester,,,32
+1319,portland,,,28
+1320,virginia beach,,,57
+1321,toronto,,,57
+1322,fayetteville,,,52
+1323,stopsley,,,42
+1324,jasper,,,57
+1325,reading,,,20
+1326,marietta,,,29
+1327,beaverton,,,33
+1328,gainesville,,,32
+1329,kansas city,,,23
+1330,thunder bay,,,45
+1331,voncouver,,,27
+1332,anchorage,,,43
+1333,gilchrist,,,47
+1334,toledo,,,35
+1335,clearwater,,,41
+1336,denton,,,36
+1337,durham,,,40
+1338,lithia springs,,,37
+1339,san antonio,,,34
+1340,toledo,,,43
+1341,chittenango,,,24
+1342,fort myers beach,,,48
+1343,southampton,,,34
+1344,north dighton,,,31
+1345,bellingham,,,60
+1346,rapid city,,,44
+1347,marietta,,,51
+1348,boise,,,39
+1349,apache junction,,,24
+1350,highland,,,36
+1351,mercer island,,,54
+1352,espoo,,,27
+1353,durham,,,33
+1354,vancouver,,,24
+1355,lisboa,,,40
+1356,valley stream,,,34
+1357,tallahassee,,,30
+1358,philadelphia,,,35
+1359,hamilton,,,33
+1360,olympia,,,47
+1361,yarmouth,,,38
+1362,nashville,,,33
+1363,earth,,,54
+1364,griswold,,,18
+1365,montreal,,,90
+1366,sydney,,,29
+1367,lefkosia,,,36
+1368,russellville,,,35
+1369,jersey city,,,32
+1370,portland,,,31
+1371,west blocton,,,36
+1372,ellington,,,26
+1373,nottingham,,,39
+1374,barcelona,,,31
+1375,soddy-daisy,,,18
+1376,paris,,,18
+1377,woburn,,,37
+1378,citrus heights,,,47
+1379,two rivers,,,51
+1380,chemainus,,,27
+1381,farnborough,,,31
+1382,tazewell,,,47
+1383,milltown,,,54
+1384,bloomer,,,55
+1385,denver,,,58
+1386,ottawa,,,38
+1387,newport beach,,,44
+1388,west palm beach,,,57
+1389,torrance,,,43
+1390,wokingham,,,29
+1391,atlanta,,,41
+1392,ormond beach,,,23
+1393,jacksons point,,,25
+1394,olney,,,39
+1395,calgary,,,29
+1396,palmyra,,,30
+1397,indianapolis,,,28
+1398,gaithersburg,,,28
+1399,sun city,,,36
+1400,north arlington,,,28
+1401,santa rosa,,,34
+1402,omaha,,,25
+1403,winfield,,,26
+1404,barcelona,,,25
+1405,london,,,26
+1406,santander,,,28
+1407,waco,,,26
+1408,chicago,,,27
+1409,kuala lumpur,,,28
+1410,west liberty,,,43
+1411,spring,,,29
+1412,groton,,,32
+1413,houston,,,32
+1414,greenwood,,,23
+1415,albuquerque,,,39
+1416,alexandria,,,40
+1417,rockaway,,,34
+1418,ottawa,,,24
+1419,hafnarfjordur,,,26
+1420,fredericton,,,32
+1421,baker city,,,55
+1422,allston,,,32
+1423,gibsonia,,,46
+1424,kanata,,,29
+1425,normal,,,44
+1426,crest hill,,,39
+1427,calgary,,,34
+1428,travelers rest,,,20
+1429,santa fe,,,33
+1430,portland,,,27
+1431,shingle springs,,,42
+1432,oceanside,,,51
+1433,canton,,,18
+1434,rio rancho,,,18
+1435,santa barbara,,,31
+1436,exton,,,80
+1437,rennes,,,31
+1438,longview,,,26
+1439,strasbourg,,,32
+1440,sevilla,,,26
+1441,woodburn,,,25
+1442,enterprise,,,35
+1443,east point,,,36
+1444,medford,,,46
+1445,santo domingo,,,24
+1446,somerville,,,31
+1447,glasgow,,,31
+1448,winter park,,,35
+1449,saint paul,,,37
+1450,edmonton,,,37
+1451,tulsa,,,40
+1452,merrimack,,,34
+1453,japser,,,36
+1454,mesquite,,,21
+1455,cape girardeau,,,38
+1456,bremerton,,,36
+1457,winnipeg,,,40
+1458,chicago,,,35
+1459,charlotte,,,16
+1460,keyser,,,47
+1461,honolulu,,,27
+1462,oakland,,,35
+1463,memphis,,,47
+1464,fort myers,,,36
+1465,hamilton,,,30
+1466,norfolk,,,53
+1467,chicago,,,33
+1468,georgetown,,,22
+1469,toronto,,,36
+1470,juneau,,,49
+1471,monett,,,54
+1472,bromley,,,41
+1473,milford,,,35
+1474,victoria,,,29
+1475,porto,,,32
+1476,guildford,,,23
+1477,somerville,,,27
+1478,orlando,,,21
+1479,zeeland,,,42
+1480,st. louis,,,26
+1481,vancouver,,,31
+1482,portland,,,30
+1483,duesseldorf,,,36
+1484,columbus,,,44
+1485,puyallup,,,35
+1486,lisboa,,,28
+1487,redmond,,,29
+1488,hammonton,,,29
+1489,westminster,,,47
+1490,dove canyon,,,44
+1491,framingham,,,30
+1492,perth,,,34
+1493,christchurch,,,43
+1494,newport news,,,51
+1495,oslo,,,41
+1496,athens,,,46
+1497,san jose,,,41
+1498,waipahu,,,33
+1499,melbourne,,,32
+1500,fairfield,,,64
+1501,winfield,,,52
+1502,detroit,,,36
+1503,hot springs,,,21
+1504,waipah,,,59
+1505,chicago,,,26
+1506,wasilla,,,35
+1507,kyoto,,,38
+1508,manhattan,,,17
+1509,san diego,,,29
+1510,weaverville,,,26
+1511,blythewood,,,28
+1512,dyersburg,,,27
+1513,st. louis,,,42
+1514,bellingham,,,50
+1515,savannah,,,24
+1516,oakland,,,36
+1517,chicago,,,32
+1518,nottingham,,,25
+1519,san antonio,,,28
+1520,wuppertal,,,26
+1521,chardon,,,26
+1522,wesley chapel,,,39
+1523,columbia,,,49
+1524,magnolia,,,21
+1525,vancouver,,,33
+1526,summerville,,,40
+1527,galveston,,,39
+1528,pleasanton,,,37
+1529,northbrook,,,37
+1530,morro bay,,,32
+1531,barcelona,,,45
+1532,sydney,,,38
+1533,houston,,,28
+1534,lake forest,,,33
+1535,winter haven,,,63
+1536,middletown,,,36
+1537,elmhurst,,,40
+1538,augusta,,,42
+1539,orlando,,,27
+1540,bourbonnais,,,49
+1541,camdenton,,,42
+1542,strasbourg,,,25
+1543,seattle,,,47
+1544,palmdale,,,14
+1545,bardstown,,,43
+1546,miami,,,30
+1547,portland,,,21
+1548,london,,,38
+1549,mechanicsburg,,,41
+1550,cassadaga,,,53
+1551,herne bay,,,37
+1552,kanata,,,30
+1553,farmingdale,,,34
+1554,downers grove,,,27
+1555,mokena,,,47
+1556,pocomoke city,,,32
+1557,portland,,,42
+1558,toronto,,,50
+1559,washington,,,34
+1560,calgary,,,29
+1561,thunder bay,,,49
+1562,campbellsport,,,67
+1563,webster,,,54
+1564,webster,,,34
+1565,holiday,,,24
+1566,brooklyn,,,31
+1567,sonoma,,,55
+1568,struthers,,,30
+1569,nekoosa,,,49
+1570,germantown,,,32
+1571,logan city,,,35
+1572,bethlehem,,,33
+1573,apo,,,25
+1574,hendersonville,,,42
+1575,hull,,,29
+1576,chicago,,,44
+1577,york,,,30
+1578,cumberland,,,38
+1579,bodegraven,,,33
+1580,iowa city,,,61
+1581,scottsdale,,,36
+1582,vancouver,,,30
+1583,manchester,,,47
+1584,greencastle,,,34
+1585,appalachia,,,38
+1586,minneapolis,,,39
+1587,fairbanks,,,33
+1588,dalton,,,33
+1589,portland,,,56
+1590,warner robins,,,18
+1591,austin,,,26
+1592,christchurch,,,50
+1593,zeist,,,39
+1594,easthampton,,,29
+1595,wickenburg,,,14
+1596,windsor,,,33
+1597,chicago,,,71
+1598,phoenixville,,,33
+1599,indianapolis,,,40
+1600,san diego,,,61
+1601,kota kinabalu,,,22
+1602,chicago,,,28
+1603,plattsburgh,,,24
+1604,ypsilanti,,,38
+1605,lisbon,,,25
+1606,ann arbor,,,35
+1607,cambridge,,,20
+1608,toronto,,,28
+1609,york,,,33
+1610,barrie,,,43
+1611,jacksonville,,,44
+1612,little rock,,,31
+1613,rapid city,,,50
+1614,ft. stewart,,,44
+1615,round lake,,,27
+1616,fresno,,,31
+1617,tulsa,,,31
+1618,brewton,,,26
+1619,wellman,,,38
+1620,n vancouver,,,32
+1621,copenhagen,,,31
+1622,cotati,,,24
+1623,eatontown,,,31
+1624,fishers,,,37
+1625,san francisco,,,29
+1626,duluth,,,23
+1627,encinitas,,,42
+1628,indianapolis,,,30
+1629,sharon hill,,,32
+1630,colony,,,33
+1631,maryland heights,,,40
+1632,tucson,,,39
+1633,knoxville,,,31
+1634,seattle,,,60
+1635,stamford,,,29
+1636,st. albans,,,38
+1637,hood river,,,26
+1638,fairport,,,61
+1639,santa barbara,,,54
+1640,perth,,,27
+1641,howell,,,36
+1642,new bern,,,59
+1643,chicago,,,53
+1644,pinon hills,,,49
+1645,columbia,,,43
+1646,waltham,,,38
+1647,surrey,,,50
+1648,whitehaven,,,26
+1649,hobart,,,55
+1650,lisboa,,,39
+1651,bellevue,,,19
+1652,vine grove,,,26
+1653,slatington,,,37
+1654,deventer,,,48
+1655,newburgh,,,43
+1656,dripping springs,,,37
+1657,sydney,,,45
+1658,heemstede,,,42
+1659,kissimmee,,,34
+1660,riverside,,,24
+1661,oslo,,,26
+1662,asheville,,,28
+1663,antioch,,,29
+1664,n/a,,,32
+1665,dunedin,,,72
+1666,sagle,,,54
+1667,taneytown,,,46
+1668,federal way,,,14
+1669,waban,,,42
+1670,lille,,,27
+1671,portland,,,28
+1672,winnipeg,,,31
+1673,watchung,,,47
+1674,aptos,,,37
+1675,las vegas,,,19
+1676,atlantic beach,,,37
+1677,portland,,,38
+1678,union,,,46
+1679,akron,,,30
+1680,san francisco,,,29
+1681,orlando,,,22
+1682,hooksett,,,28
+1683,niles,,,28
+1684,blaine,,,39
+1685,miami,,,43
+1686,milton,,,32
+1687,fredericton,,,30
+1688,lisbon,,,24
+1689,catonsville,,,43
+1690,annapolis,,,44
+1691,covina,,,41
+1692,palmdale,,,17
+1693,shelbyville,,,41
+1694,west des moines,,,32
+1695,mesa,,,58
+1696,lasalle,,,49
+1697,gisborne,,,53
+1698,center rutland,,,25
+1699,danville,,,51
+1700,federal way,,,57
+1701,largo,,,22
+1702,lynn,,,23
+1703,halifax,,,28
+1704,omaha,,,29
+1705,marietta,,,28
+1706,yarmouth,,,19
+1707,waterford,,,35
+1708,rock island,,,31
+1709,west linn,,,57
+1710,los angeles,,,26
+1711,tulsa,,,24
+1712,gÃ¼nzburg,,,34
+1713,gum spring,,,28
+1714,toronto,,,21
+1715,salem,,,24
+1716,lincoln,,,50
+1717,roanoke,,,59
+1718,merville,,,54
+1719,barboursville,,,29
+1720,bonaire,,,43
+1721,sÃ£o paulo,,,46
+1722,lisboa,,,29
+1723,delta,,,31
+1724,nashville,,,33
+1725,bronx,,,44
+1726,miami,,,46
+1727,sitges,,,46
+1728,costa da caparica,,,30
+1729,manchester,,,52
+1730,portland,,,55
+1731,ann arbor,,,25
+1732,lyon,,,23
+1733,waterdown,,,44
+1734,tulsa,,,60
+1735,saint albans,,,23
+1736,madras,,,73
+1737,new berlin,,,33
+1738,tucson,,,28
+1739,chester,,,28
+1740,crossville,,,58
+1741,cardiff,,,57
+1742,ashville,,,27
+1743,banks,,,48
+1744,chicago,,,38
+1745,cortez,,,32
+1746,hanover,,,60
+1747,richmond,,,63
+1748,greenwood,,,57
+1749,ionia,,,24
+1750,london,,,26
+1751,coburg,,,43
+1752,kaiserslautern,,,29
+1753,keller,,,33
+1754,milton,,,29
+1755,perth,,,28
+1756,roma,,,25
+1757,lingfield,,,23
+1758,anaheim hills,,,22
+1759,cleethorpes,,,36
+1760,seattle,,,46
+1761,belton,,,35
+1762,charlestown,,,32
+1763,new york,,,24
+1764,olive branch,,,57
+1765,vancouver,,,38
+1766,oxford,,,28
+1767,middletown,,,37
+1768,oceanside,,,46
+1769,calgary,,,47
+1770,delisle,,,37
+1771,frankston,,,32
+1772,antioch,,,11
+1773,seattle,,,24
+1774,santa clara,,,35
+1775,manhattan,,,29
+1776,athabasca,,,49
+1777,westlake,,,50
+1778,chicago,,,27
+1779,colorado springs,,,43
+1780,south berwick,,,55
+1781,lisboa,,,28
+1782,minneapolis,,,26
+1783,vadnais heights,,,40
+1784,st. charles,,,36
+1785,portland,,,21
+1786,muskegon,,,58
+1787,lisboa,,,31
+1788,melton mowbray,,,51
+1789,stevenage,,,33
+1790,chicago,,,56
+1791,clinton township,,,23
+1792,tacoma,,,30
+1793,gaithersburg,,,61
+1794,bethlehem,,,32
+1795,maiden,,,34
+1796,hamilton,,,33
+1797,burbank,,,43
+1798,o`fallon,,,41
+1799,lansing,,,60
+1800,kitchener,,,40
+1801,hopkinton,,,44
+1802,sheldon,,,35
+1803,westminster,,,66
+1804,corydon,,,41
+1805,langley,,,43
+1806,toronto,,,47
+1807,silver spring,,,27
+1808,berkeley,,,37
+1809,bainbridge island,,,37
+1810,trout creek,,,50
+1811,sacramento,,,31
+1812,urduliz,,,28
+1813,irving,,,23
+1814,sandhurst,,,47
+1815,rainsville,,,30
+1816,portland,,,25
+1817,cherry creek,,,58
+1818,sandy,,,45
+1819,buffalo,,,51
+1820,san bernardino,,,20
+1821,louisville,,,25
+1822,long beach,,,29
+1823,astoria,,,44
+1824,san antonio,,,29
+1825,saint paul,,,28
+1826,sydney,,,25
+1827,greensboro,,,29
+1828,chicago,,,31
+1829,arlington,,,69
+1830,citronelle,,,45
+1831,regensburg,,,27
+1832,chula vista,,,15
+1833,springfield,,,36
+1834,manchester,,,53
+1835,chicago,,,48
+1836,valley stream,,,25
+1837,festus,,,32
+1838,kelseyville,,,38
+1839,holybourne,,,34
+1840,new cumberland,,,23
+1841,carrollton,,,34
+1842,hamilton,,,36
+1843,st. louis,,,26
+1844,winnipeg,,,38
+1845,morrisville,,,37
+1846,houston,,,32
+1847,toronto,,,47
+1848,long beach,,,38
+1849,perth,,,33
+1850,round rock,,,33
+1851,chicago,,,57
+1852,brandon,,,31
+1853,walled lake,,,55
+1854,tampa,,,61
+1855,bellevue,,,55
+1856,roanoke,,,32
+1857,mÃ¼nchen,,,30
+1858,dresden,,,27
+1859,san antonio,,,46
+1860,hindmarsh island,,,52
+1861,somewhere,,,27
+1862,springdale,,,34
+1863,andrews,,,32
+1864,louisville,,,33
+1865,brossard,,,30
+1866,minot,,,23
+1867,tampere,,,31
+1868,surrey,,,30
+1869,o`fallon,,,25
+1870,irving,,,24
+1871,cicero,,,27
+1872,moberly,,,47
+1873,ashland,,,37
+1874,forest grove,,,36
+1875,north augusta,,,47
+1876,akron,,,39
+1877,charleston,,,42
+1878,austin,,,23
+1879,plymouth,,,30
+1880,colorado springs,,,30
+1881,orlando,,,29
+1882,w.m.,,,42
+1883,wichita,,,33
+1884,ottawa,,,29
+1885,port orchard,,,52
+1886,green bay,,,49
+1887,nottingham,,,27
+1888,pembroke,,,81
+1889,victoria,,,32
+1890,north las vegas,,,55
+1891,auburn,,,45
+1892,bloomfield hills,,,32
+1893,sioux falls,,,34
+1894,olive branch,,,49
+1895,freehold,,,34
+1896,porto,,,29
+1897,san francisco,,,31
+1898,omaha,,,30
+1899,hampton,,,82
+1900,russell,,,50
+1901,raleigh,,,42
+1902,leroy,,,39
+1903,greenville,,,26
+1904,greenville,,,26
+1905,aurora,,,42
+1906,manchester,,,26
+1907,high river,,,37
+1908,sydney,,,22
+1909,oldham,,,22
+1910,perry,,,28
+1911,thornton,,,63
+1912,fredericksburg,,,40
+1913,calgary,,,38
+1914,millville,,,80
+1915,rio tinto,,,1
+1916,coventry,,,54
+1917,quakertown,,,36
+1918,albuquerque,,,50
+1919,stony plain,,,53
+1920,rosebud,,,35
+1921,hayward,,,39
+1922,st. louis,,,43
+1923,roswell,,,32
+1924,austin,,,29
+1925,chicago,,,26
+1926,boulder,,,28
+1927,south windsor,,,49
+1928,browns,,,21
+1929,london,,,30
+1930,black hawk,,,20
+1931,somerville,,,31
+1932,the center of,,,35
+1933,memphis,,,35
+1934,chicago,,,25
+1935,fort wayne,,,28
+1936,orlando,,,40
+1937,pekin,,,62
+1938,jacksonville,,,44
+1939,cumberland,,,26
+1940,minneapolis,,,36
+1941,carneys point,,,40
+1942,manchester,,,30
+1943,arlington,,,43
+1944,kingsport,,,15
+1945,williamsport,,,48
+1946,peoria,,,33
+1947,paris,,,28
+1948,ft. meade,,,35
+1949,chinook,,,29
+1950,sherman,,,35
+1951,green cove springs,,,35
+1952,sydney,,,26
+1953,washington,,,35
+1954,edmonton,,,27
+1955,columbus (grandview heights),,,49
+1956,menasha,,,65
+1957,san angelo,,,29
+1958,omaha,,,31
+1959,olympia,,,55
+1960,dayton,,,44
+1961,louisville,,,33
+1962,pittsburgh,,,41
+1963,navarre,,,61
+1964,des moines,,,28
+1965,yucaipa,,,50
+1966,chicago,,,22
+1967,canaan,,,33
+1968,dayton,,,37
+1969,winnemucca,,,31
+1970,deleon,,,30
+1971,seattle,,,32
+1972,mechanicsville,,,51
+1973,long beach,,,24
+1974,alexandria,,,39
+1975,tehran,,,24
+1976,richmond,,,37
+1977,apex,,,55
+1978,rantoul,,,28
+1979,mcclelland,,,18
+1980,schofield,,,39
+1981,moore,,,24
+1982,grapeview,,,65
+1983,chesapeake,,,33
+1984,gordon,,,66
+1985,kansas city,,,100
+1986,san francisco,,,12
+1987,brooklyn,,,28
+1988,hull,,,29
+1989,olympia,,,19
+1990,mountlake terrace,,,34
+1991,charlestown,,,22
+1992,rapid city,,,24
+1993,el dorado hills,,,37
+1994,greenwood,,,33
+1995,pegram,,,35
+1996,melbourne,,,23
+1997,hawthorne,,,22
+1998,brookfield,,,44
+1999,thunder bay,,,22
+2000,klang,,,20
+2001,orange,,,61
+2002,eastern san fernando valley,,,38
+2003,valdosta,,,24
+2004,hoxie,,,28
+2005,st. louis,,,28
+2006,lake country,,,40
+2007,lansing,,,39
+2008,ottawa,,,49
+2009,madison,,,26
+2010,colorado springs,,,37
+2011,catlettsburg,,,55
+2012,stamford,,,43
+2013,kamloops,,,38
+2014,schertz,,,40
+2015,ramona,,,43
+2016,corpus christi,,,52
+2017,ramona,,,43
+2018,philadelphia,,,38
+2019,burlington,,,45
+2020,hobe sound,,,51
+2021,seattle,,,31
+2022,oakland,,,80
+2023,madison,,,41
+2024,st.catharines,,,30
+2025,mÃ¼nchen,,,26
+2026,tatamagouche,,,49
+2027,mount airy,,,27
+2028,lake worth,,,46
+2029,occoquan,,,39
+2030,portland,,,58
+2031,grove city,,,45
+2032,las vegas,,,26
+2033,leeds,,,34
+2034,ponte vedra,,,53
+2035,toronto,,,40
+2036,umatilla,,,29
+2037,deland,,,41
+2038,florissant,,,51
+2039,coalville,,,37
+2040,waterford,,,27
+2041,pasadena,,,49
+2042,largo,,,33
+2043,mountain park,,,54
+2044,new waverly,,,23
+2045,lancaster,,,52
+2046,melzo,,,36
+2047,paris,,,28
+2048,toronto,,,51
+2049,stroudsburg,,,41
+2050,littleton,,,33
+2051,savannah,,,46
+2052,florence,,,41
+2053,newcastle upon tyne,,,27
+2054,london,,,18
+2055,navarre,,,51
+2056,canyon country,,,53
+2057,congers,,,39
+2058,tucson,,,29
+2059,ruby,,,36
+2060,macomb,,,55
+2061,pittsburgh,,,36
+2062,pittsburgh,,,35
+2063,disputanta,,,28
+2064,west palm beach,,,34
+2065,seattle,,,34
+2066,auburn,,,22
+2067,richmond,,,40
+2068,tucson,,,60
+2069,king of prussia,,,30
+2070,decatur,,,38
+2071,snellville,,,39
+2072,cumming,,,30
+2073,stockholm,,,31
+2074,thornton,,,26
+2075,galati,,,40
+2076,indiana,,,49
+2077,iasi,,,21
+2078,san diego,,,61
+2079,fairview park,,,30
+2080,baltimore,,,34
+2081,milwaukee,,,51
+2082,williamsburg/norfolk,,,19
+2083,waretown,,,17
+2084,orlando,,,49
+2085,melbourne,,,42
+2086,baker city,,,30
+2087,milton,,,51
+2088,dow city,,,49
+2089,little canada,,,62
+2090,brooklyn park,,,46
+2091,mesquite,,,21
+2092,rotterdam,,,50
+2093,napa,,,32
+2094,la ronge,,,14
+2095,houma,,,65
+2096,oakwood,,,15
+2097,la cienega,,,44
+2098,san diego,,,66
+2099,burlington,,,39
+2100,jasper,,,21
+2101,plainfield,,,29
+2102,porto alegre,,,18
+2103,austin,,,21
+2104,pittsburg,,,58
+2105,culemborg,,,41
+2106,amadora,,,25
+2107,palmetto bay,,,36
+2108,birmingham,,,34
+2109,ottawa,,,27
+2110,seixal,,,35
+2111,st. thomas,,,19
+2112,springfield,,,40
+2113,vancouver,,,25
+2114,rheinfelden,,,29
+2115,ottawa,,,19
+2116,sellersville,,,28
+2117,hawthorne,,,29
+2118,austin,,,24
+2119,markham,,,29
+2120,mitchell,,,29
+2121,fredericton,,,47
+2122,saint john,,,22
+2123,white haven,,,25
+2124,dodge center,,,25
+2125,duisburg,,,29
+2126,kennesaw,,,54
+2127,setÃºbal,,,52
+2128,iowa city,,,53
+2129,arlington,,,32
+2130,westminster,,,30
+2131,swisshime,,,20
+2132,lacey,,,62
+2133,waterloo,,,1
+2134,minneapolis,,,32
+2135,bloomington,,,40
+2136,huntington beach,,,23
+2137,st. louis,,,32
+2138,melbourne,,,28
+2139,nuneaton,,,38
+2140,rye brook,,,18
+2141,manila,,,37
+2142,mount vernon,,,41
+2143,petersburg,,,48
+2144,menasha,,,54
+2145,moncton,,,40
+2146,portland,,,30
+2147,manila,,,16
+2148,watervliet,,,30
+2149,brooklyn,,,40
+2150,orlando,,,23
+2151,hawthorne,,,55
+2152,mena,,,29
+2153,toronto,,,30
+2154,conshohocken,,,24
+2155,simi valley,,,47
+2156,chesterfield,,,47
+2157,chicopee,,,24
+2158,chalmette,,,24
+2159,hucknall,,,36
+2160,ottawa,,,32
+2161,waltham,,,36
+2162,east northport,,,16
+2163,mosinee,,,26
+2164,minneapolis,,,27
+2165,fort worth,,,25
+2166,santa clara,,,56
+2167,burnaby,,,25
+2168,new britain,,,16
+2169,portland,,,29
+2170,arlington heights,,,16
+2171,oliva de plasencia,,,19
+2172,douglasville,,,20
+2173,glendale,,,29
+2174,katy,,,24
+2175,pomfret center,,,45
+2176,new orleans,,,33
+2177,hanover,,,45
+2178,olive branch,,,32
+2179,camarillo,,,26
+2180,niceville,,,32
+2181,dunedin,,,22
+2182,san diego,,,42
+2183,owensboro,,,28
+2184,florence,,,38
+2185,wells,,,43
+2186,ottawa,,,58
+2187,seadrift,,,25
+2188,huntsville,,,42
+2189,montgomery,,,29
+2190,choctaw,,,53
+2191,mississauga,,,39
+2192,midland,,,28
+2193,fairbanks,,,52
+2194,houston,,,57
+2195,phila,,,50
+2196,eugene,,,46
+2197,greenville,,,53
+2198,rancho cucamonga,,,35
+2199,southfield,,,32
+2200,jefferson,,,46
+2201,federal way,,,41
+2202,fontana,,,53
+2203,kansas city,,,30
+2204,stevenage,,,23
+2205,laguna hills,,,37
+2206,oakland,,,12
+2207,cape neddick,,,38
+2208,forest,,,44
+2209,umatilla,,,59
+2210,san diego,,,23
+2211,albuquerque,,,26
+2212,pembroke,,,35
+2213,temple hills,,,26
+2214,arlington heights,,,48
+2215,ottawa,,,32
+2216,fairfax,,,35
+2217,pass christian,,,60
+2218,mountain view,,,37
+2219,st-sauveur,,,17
+2220,storm lake,,,24
+2221,felixstowe,,,57
+2222,erith,,,30
+2223,indianapolis,,,48
+2224,halifax,,,23
+2225,sacramento,,,36
+2226,pittsburgh,,,27
+2227,superior,,,41
+2228,crescent city,,,43
+2229,nottingham,,,45
+2230,cumberland,,,24
+2231,carmichael,,,35
+2232,lake winnebago,,,38
+2233,medford,,,25
+2234,wantagh,,,42
+2235,franconia,,,36
+2236,new orleans,,,36
+2237,toronto,,,26
+2238,cliffwood,,,30
+2239,ava,,,33
+2240,prague,,,21
+2241,seattle,,,36
+2242,asheville,,,43
+2243,vienna,,,32
+2244,maysville,,,42
+2245,pueblo,,,24
+2246,toronto,,,28
+2247,wien,,,33
+2248,okahumpka,,,27
+2249,jacksonville,,,38
+2250,enschede,,,40
+2251,dresden,,,33
+2252,warrenton,,,37
+2253,fpo,,,13
+2254,killeen,,,34
+2255,bulacan,,,18
+2256,weimar,,,62
+2257,horsham,,,36
+2258,coal township,,,21
+2259,cedar rapids,,,39
+2260,oil city,,,31
+2261,monroeville,,,61
+2262,minneapolis,,,34
+2263,akron,,,43
+2264,vancouver,,,20
+2265,destrehan,,,103
+2266,fremont,,,33
+2267,lancaster,,,32
+2268,baltimore,,,47
+2269,rotherham,,,32
+2270,rowland heights,,,65
+2271,bolingbrook,,,63
+2272,springfield,,,31
+2273,zhadum,,,43
+2274,princeton,,,37
+2275,hollywood,,,41
+2276,madison,,,36
+2277,omaha,,,32
+2278,sheffield,,,29
+2279,lakeland,,,79
+2280,duisburg,,,23
+2281,paris,,,42
+2282,louisville,,,32
+2283,middletown,,,35
+2284,semaphore,,,31
+2285,las vegas,,,38
+2286,lleida,,,35
+2287,seattle,,,44
+2288,toulouse,,,24
+2289,fort worth,,,28
+2290,lake oswego,,,42
+2291,clevelad,,,34
+2292,manchester,,,54
+2293,lancaster,,,40
+2294,taylorsville,,,25
+2295,nunspeet,,,57
+2296,castleton,,,29
+2297,miami,,,20
+2298,bristol,,,36
+2299,peoria,,,30
+2300,rock island,,,55
+2301,pittsburgh,,,34
+2302,frodsham,,,43
+2303,palo alto,,,25
+2304,st. petersburg,,,35
+2305,singapore,,,23
+2306,madrid,,,37
+2307,arlington,,,37
+2308,ypsilanti,,,35
+2309,west lafayette,,,35
+2310,nÃ¼rnberg,,,39
+2311,melbourne,,,23
+2312,san antonio,,,48
+2313,byron,,,41
+2314,salem,,,36
+2315,spartanburg,,,31
+2316,webster,,,43
+2317,henderson,,,19
+2318,halifax,,,60
+2319,san antonio,,,28
+2320,new albany,,,25
+2321,santa ana,,,32
+2322,st. louis,,,64
+2323,wolverhampton,,,19
+2324,roanoke,,,34
+2325,hammond,,,32
+2326,san francisco,,,28
+2327,toronto,,,26
+2328,wisconsin rapids,,,27
+2329,burlington,,,28
+2330,brookline,,,27
+2331,adelaide,,,25
+2332,palm desert,,,29
+2333,euless,,,28
+2334,beach park,,,34
+2335,columbia,,,26
+2336,hagerstown,,,35
+2337,cuyahoga falls,,,26
+2338,oelwein,,,45
+2339,cardiff,,,28
+2340,jacksonville,,,36
+2341,bristol,,,56
+2342,allen park,,,45
+2343,janesville,,,42
+2344,austin,,,30
+2345,vaihingen an der enz,,,29
+2346,griswold,,,41
+2347,alameda,,,59
+2348,philadelphia,,,42
+2349,thil,,,41
+2350,las vegas,,,57
+2351,wilmington,,,33
+2352,springfield,,,31
+2353,the woodlands,,,33
+2354,rock hill,,,57
+2355,warsaw,,,17
+2356,laguna park,,,56
+2357,san carlos,,,36
+2358,randolph,,,31
+2359,kansas city,,,29
+2360,newmarket,,,30
+2361,fountain valley,,,58
+2362,beaverton,,,28
+2363,sarnia,,,35
+2364,kansas city,,,45
+2365,columbia,,,23
+2366,warren,,,24
+2367,ploiesti,,,18
+2368,rockaway,,,116
+2369,huntington beach,,,41
+2370,nashua,,,61
+2371,trevose,,,27
+2372,cleveland,,,24
+2373,the woodlands,,,38
+2374,lansing,,,38
+2375,austin,,,46
+2376,toronto,,,51
+2377,albuquerque,,,14
+2378,toronto,,,54
+2379,sydney,,,4
+2380,halifax,,,24
+2381,goodyear,,,57
+2382,savannah,,,37
+2383,daly city,,,16
+2384,glen allen,,,16
+2385,el cajon,,,56
+2386,ruma,,,35
+2387,chicago,,,13
+2388,lancaster,,,46
+2389,watford,,,36
+2390,palmdale,,,27
+2391,belton,,,20
+2392,scott,,,35
+2393,pueblo,,,24
+2394,lakewood,,,37
+2395,wichita,,,43
+2396,romeoville,,,48
+2397,willow street,,,24
+2398,singapore,,,21
+2399,mesa,,,38
+2400,tucson,,,204
+2401,humble,,,38
+2402,mundelein,,,37
+2403,overland park,,,31
+2404,clemson,,,47
+2405,saskatoon,,,33
+2406,lynnwood,,,37
+2407,bonn,,,27
+2408,rhame,,,32
+2409,kelseyville,,,38
+2410,san jose,,,33
+2411,league city,,,42
+2412,westport,,,36
+2413,west valley city,,,48
+2414,athens,,,30
+2415,virginia beach,,,25
+2416,ann arbor,,,32
+2417,coon rapids,,,32
+2418,brooklyn,,,29
+2419,oakdale,,,39
+2420,skipton,,,44
+2421,myrtle beach,,,33
+2422,lincoln,,,41
+2423,southgate,,,31
+2424,st-lÃ©gier,,,56
+2425,houston,,,37
+2426,fort carson,,,30
+2427,leipzig,,,32
+2428,calafat,,,27
+2429,ottawa,,,28
+2430,duchesne,,,23
+2431,kensington,,,29
+2432,highland,,,23
+2433,berkeley,,,36
+2434,ap,,,44
+2435,mililani,,,33
+2436,duisburg,,,30
+2437,orlando,,,39
+2438,simi valley,,,34
+2439,colorado springs,,,52
+2440,seattle,,,30
+2441,modesto,,,43
+2442,roanoke,,,44
+2443,cornwall,,,27
+2444,san antonio,,,38
+2445,arnold,,,37
+2446,methuen,,,34
+2447,montreal,,,28
+2448,festus,,,32
+2449,canberra,,,46
+2450,zuerich,,,33
+2451,akron,,,26
+2452,swartz creek,,,30
+2453,bayfield,,,36
+2454,chicago,,,38
+2455,cincinnati,,,39
+2456,newport,,,28
+2457,portland,,,43
+2458,westchester,,,44
+2459,portland,,,26
+2460,san antonio,,,43
+2461,mackay,,,36
+2462,oviedo,,,31
+2463,brisbane,,,37
+2464,n/a,,,23
+2465,romney,,,41
+2466,madera,,,38
+2467,madera,,,18
+2468,heidelberg,,,29
+2469,markham,,,40
+2470,morro bay,,,35
+2471,kelowna,,,35
+2472,kuching,,,28
+2473,hudson,,,51
+2474,santa maria da feira,,,26
+2475,st louis,,,46
+2476,pace,,,47
+2477,encino,,,43
+2478,st. louis,,,27
+2479,los altos,,,19
+2480,lisboa,,,42
+2481,moorhead,,,53
+2482,miami,,,26
+2483,griswold,,,41
+2484,bridgeton,,,43
+2485,layton,,,25
+2486,san francisco,,,34
+2487,elkhorn,,,42
+2488,chesapeake,,,34
+2489,whiteman afb,,,21
+2490,orlando,,,41
+2491,st kilda,,,29
+2492,wilmington,,,40
+2493,houston,,,34
+2494,rochdale,,,30
+2495,cardiff,,,32
+2496,toronto,,,35
+2497,pace,,,41
+2498,st. louis,,,35
+2499,oxford,,,68
+2500,grand rapids,,,32
+2501,cairo,,,35
+2502,montreal,,,24
+2503,rexdale,,,47
+2504,rockville,,,56
+2505,eagan,,,27
+2506,edmond,,,36
+2507,bourbonnais,,,27
+2508,louisville,,,25
+2509,montclair,,,36
+2510,upper sandusky,,,28
+2511,kuala lumpur,,,21
+2512,pineville,,,24
+2513,st. john`s,,,37
+2514,brooklyn,,,46
+2515,yucca valley,,,51
+2516,saskatoon,,,40
+2517,powys,,,32
+2518,clark fork,,,33
+2519,antioch,,,18
+2520,seattle,,,55
+2521,jackson,,,49
+2522,anchorage,,,14
+2523,milwaukee,,,25
+2524,minneapolis,,,37
+2525,leuven,,,28
+2526,wellesley,,,52
+2527,winnemucca,,,26
+2528,trenton,,,32
+2529,sherwood park,,,26
+2530,muskego,,,34
+2531,arlington,,,38
+2532,walnut creek,,,52
+2533,indian springs village,,,46
+2534,sheffield,,,33
+2535,denver,,,64
+2536,louisville,,,49
+2537,hawthorne,,,33
+2538,elk  city,,,34
+2539,waldorf,,,15
+2540,guyton,,,41
+2541,omaha,,,29
+2542,durham,,,23
+2543,manchester,,,28
+2544,marrickville,,,23
+2545,colfax,,,32
+2546,saratoga,,,44
+2547,ocala,,,64
+2548,philadelphia,,,20
+2549,san francisco,,,35
+2550,na,,,27
+2551,ashburn,,,35
+2552,santo domingo,,,30
+2553,aldergrove,,,28
+2554,fairview,,,24
+2555,covington,,,28
+2556,margaret,,,46
+2557,livonia,,,42
+2558,orlando,,,25
+2559,wbl,,,17
+2560,berck sur mer,,,23
+2561,vancouver,,,24
+2562,lindstrom,,,44
+2563,avon,,,17
+2564,chicago,,,23
+2565,honolulu,,,8
+2566,belton,,,21
+2567,baltimore,,,33
+2568,hillsboro,,,26
+2569,ann arbor,,,34
+2570,westerville,,,51
+2571,modesto,,,50
+2572,geismar,,,25
+2573,ann arbor,,,36
+2574,portland,,,33
+2575,goodyear,,,56
+2576,barcelona,,,38
+2577,lock haven,,,51
+2578,los angeles,,,32
+2579,chicago,,,63
+2580,montreuil,,,43
+2581,palm desert,,,56
+2582,moline,,,51
+2583,onalaska,,,35
+2584,inverness,,,44
+2585,howell,,,22
+2586,los banos,,,40
+2587,huntsville,,,33
+2588,shelbyville,,,32
+2589,chicago,,,32
+2590,old perlican,,,29
+2591,st. petersburg,,,26
+2592,skowhegan,,,30
+2593,forest grove,,,23
+2594,seattle,,,26
+2595,austin,,,34
+2596,lexington,,,49
+2597,nottingham,,,30
+2598,adams,,,27
+2599,santa monica,,,53
+2600,halifax,,,55
+2601,flint,,,32
+2602,puchong,,,24
+2603,oakland,,,51
+2604,halifax,,,26
+2605,san antonio,,,28
+2606,greensboro,,,27
+2607,bradford,,,25
+2608,superior,,,46
+2609,saratoga,,,20
+2610,eastbourne,,,32
+2611,akron,,,29
+2612,lynnwood,,,35
+2613,killeen,,,37
+2614,kimberling city,,,31
+2615,san francisco,,,35
+2616,college station,,,22
+2617,virginia beach,,,23
+2618,derby,,,27
+2619,melbourne,,,27
+2620,singapore,,,23
+2621,gympie,,,21
+2622,oegstgeest,,,49
+2623,manchester,,,34
+2624,daly city,,,25
+2625,kuching,,,26
+2626,port of spain,,,31
+2627,avalon,,,37
+2628,marshfield,,,39
+2629,long beach,,,19
+2630,wake forest,,,30
+2631,big river,,,44
+2632,hayward,,,38
+2633,portland,,,62
+2634,portland,,,30
+2635,hewitt,,,44
+2636,dandridge,,,17
+2637,canby,,,47
+2638,amsterdam,,,50
+2639,nottingham,,,50
+2640,emmetsburg,,,42
+2641,altamonte springs,,,34
+2642,hyde park,,,43
+2643,verdon,,,48
+2644,kuala lumpur,,,46
+2645,algÃ©s,,,41
+2646,nashville,,,22
+2647,whitney,,,51
+2648,halifax,,,35
+2649,round rock,,,32
+2650,york,,,38
+2651,san francisco,,,38
+2652,westmont,,,12
+2653,amsterdam,,,31
+2654,phoenix,,,61
+2655,lÃ¼nen,,,23
+2656,hanover park,,,50
+2657,columbus,,,55
+2658,thunder bay,,,22
+2659,london,,,41
+2660,vero beach,,,44
+2661,milton,,,33
+2662,jacksonville,,,36
+2663,vancouver,,,24
+2664,latonia,,,37
+2665,barcelona,,,19
+2666,redding,,,25
+2667,trabuco canyon,,,59
+2668,delta,,,28
+2669,nottingham,,,26
+2670,bayboro,,,46
+2671,portland,,,25
+2672,cumberland,,,23
+2673,westmont,,,8
+2674,mundelein,,,54
+2675,sonoma,,,34
+2676,farmington hills,,,57
+2677,lisboa,,,30
+2678,mainz,,,35
+2679,catawba,,,32
+2680,mississauga,,,21
+2681,boynton beach,,,58
+2682,portage la prairie,,,32
+2683,springfield,,,52
+2684,halifax,,,27
+2685,montreal,,,33
+2686,sheffield,,,36
+2687,vinton,,,32
+2688,olympia,,,30
+2689,huntsville,,,43
+2690,westchester county,,,45
+2691,silver lake,,,25
+2692,vallejo,,,24
+2693,modesto,,,31
+2694,big rapids,,,33
+2695,midland,,,52
+2696,jyvÃ¤skylÃ¤,,,28
+2697,palm springs,,,49
+2698,paris,,,27
+2699,edmonton,,,29
+2700,mechanicsville,,,26
+2701,steamboat springs,,,33
+2702,hackettstown,,,27
+2703,columbia,,,45
+2704,collinsville,,,23
+2705,millbrae,,,33
+2706,milwaukee,,,25
+2707,tucson,,,31
+2708,orange park,,,35
+2709,the dalles,,,55
+2710,greenville,,,32
+2711,niles,,,50
+2712,nanticoke,,,33
+2713,maryville,,,22
+2714,walnut creek,,,29
+2715,leeds,,,41
+2716,fresno,,,57
+2717,browns mills,,,54
+2718,boise,,,53
+2719,pewaukee,,,49
+2720,anaheim,,,46
+2721,las vegas,,,42
+2722,scottsdale,,,30
+2723,columbus,,,30
+2724,york,,,29
+2725,paris,,,21
+2726,temecula,,,14
+2727,sydney,,,35
+2728,huntsville,,,34
+2729,florissant,,,58
+2730,melbourne,,,26
+2731,isle of palms,,,40
+2732,gulfport,,,36
+2733,houston,,,38
+2734,chicago heights,,,31
+2735,edmonton,,,34
+2736,akron,,,32
+2737,portland,,,39
+2738,knoxville,,,25
+2739,montreal,,,23
+2740,ray,,,45
+2741,trussville,,,35
+2742,slippery rock,,,22
+2743,mobile,,,47
+2744,hamburg,,,37
+2745,calgary,,,29
+2746,livermore,,,37
+2747,clarinda,,,41
+2748,ward,,,26
+2749,mcqueeney,,,32
+2750,los angeles,,,27
+2751,copenhagen,,,28
+2752,saginaw,,,28
+2753,edmonton,,,38
+2754,castelldefels,,,15
+2755,belo horizonte,,,32
+2756,fairbanks,,,49
+2757,modesto,,,55
+2758,philadelphia,,,34
+2759,paris,,,25
+2760,woodruff,,,30
+2761,fair haven,,,56
+2762,molalla,,,45
+2763,foster city,,,41
+2764,winthrop,,,46
+2765,mission,,,24
+2766,austin,,,2
+2767,carrollton,,,51
+2768,madison,,,44
+2769,miami,,,25
+2770,deforest,,,32
+2771,st catharines,,,25
+2772,toledo,,,42
+2773,austin,,,63
+2774,chicago,,,25
+2775,basel,,,50
+2776,carrollton,,,24
+2777,san bernardino,,,27
+2778,bethpage,,,43
+2779,fpo,,,32
+2780,seal beach,,,28
+2781,vancouver,,,41
+2782,san angelo,,,17
+2783,glen allen,,,48
+2784,huntington,,,29
+2785,sydney,,,32
+2786,wien,,,23
+2787,innsbruck,,,24
+2788,austin,,,26
+2789,fredericton,,,27
+2790,austin,,,29
+2791,espoo,,,17
+2792,kingston,,,27
+2793,jackson,,,45
+2794,tampa,,,31
+2795,wisconsin rapids,,,47
+2796,poulsbo,,,34
+2797,st. catharines,,,28
+2798,victoria,,,44
+2799,traverse city,,,34
+2800,irving,,,42
+2801,barreiro,,,24
+2802,niagara falls,,,44
+2803,atlantic highlands,,,29
+2804,portela de sacavÃ©m,,,25
+2805,toronto,,,33
+2806,ionia,,,36
+2807,quezon city,,,17
+2808,germantown,,,24
+2809,st. louis,,,23
+2810,oneida,,,25
+2811,brooklyn,,,25
+2812,morrisville,,,33
+2813,springfield,,,35
+2814,kaneohe,,,75
+2815,palmerston north,,,31
+2816,west sacramento,,,31
+2817,chicago heights,,,41
+2818,dayton,,,57
+2819,madrid,,,51
+2820,kitchener,,,30
+2821,davenport,,,45
+2822,hoover,,,47
+2823,kent,,,24
+2824,walla walla,,,62
+2825,kenmore,,,45
+2826,plant city,,,35
+2827,tustin,,,35
+2828,columbia,,,22
+2829,reston,,,33
+2830,northamptonshire,,,33
+2831,labelle,,,39
+2832,st paul,,,55
+2833,la habra heights,,,26
+2834,longwood,,,37
+2835,las vegas,,,34
+2836,klang,,,23
+2837,london,,,49
+2838,bartlesville,,,69
+2839,fort worth,,,101
+2840,sunnyvale,,,34
+2841,halifax,,,25
+2842,miami,,,23
+2843,springfield,,,32
+2844,upper township,,,36
+2845,petaling jaya,,,20
+2846,zug,,,30
+2847,sheboygan,,,34
+2848,deventer,,,40
+2849,red deer,,,38
+2850,walpole,,,49
+2851,roberts,,,36
+2852,austin,,,38
+2853,ypsilanti,,,40
+2854,seattle,,,9
+2855,jacksonville,,,33
+2856,london,,,40
+2857,houston,,,29
+2858,espinho,,,23
+2859,loveland,,,25
+2860,niles,,,27
+2861,portland,,,41
+2862,hope mills,,,42
+2863,lombard,,,31
+2864,toronto,,,27
+2865,basye,,,40
+2866,stowe,,,63
+2867,boise,,,56
+2868,west bend,,,52
+2869,port moody,,,44
+2870,paducah,,,30
+2871,rosemead,,,53
+2872,reno,,,29
+2873,lindsey,,,32
+2874,albuquerque,,,25
+2875,louisville,,,39
+2876,elsmere,,,39
+2877,alexandria,,,50
+2878,dallas,,,39
+2879,tucson,,,65
+2880,ona,,,27
+2881,saint louis,,,63
+2882,alexandria,,,23
+2883,henderson,,,35
+2884,atlanta,,,25
+2885,elmhurst,,,23
+2886,morecambe,,,49
+2887,cow capital,,,23
+2888,lakewood,,,32
+2889,poway,,,23
+2890,wilmington,,,34
+2891,barcelona,,,31
+2892,providence,,,33
+2893,chicago,,,33
+2894,arco,,,51
+2895,topeka,,,18
+2896,coconut grove,,,71
+2897,jonesboro,,,55
+2898,new orleans,,,41
+2899,london,,,32
+2900,houghton,,,34
+2901,dortmund,,,30
+2902,saratoga,,,20
+2903,bloomsburg,,,20
+2904,roxbury,,,23
+2905,sydenham,,,41
+2906,seattle,,,24
+2907,gahanna/columbus,,,26
+2908,frankston,,,41
+2909,delray beach,,,33
+2910,amsterdam,,,51
+2911,brookfield,,,21
+2912,wahiawa,,,33
+2913,brighton,,,40
+2914,paynesville,,,17
+2915,utrecht,,,34
+2916,copenhagen,,,29
+2917,oviedo,,,47
+2918,albany,,,36
+2919,tyler,,,24
+2920,ne fife,,,42
+2921,groves,,,47
+2922,pittsburgh,,,46
+2923,cologne,,,33
+2924,beacon,,,30
+2925,las vegas,,,20
+2926,richmond,,,35
+2927,providence,,,26
+2928,porto,,,25
+2929,toronto,,,30
+2930,hopewell junction,,,55
+2931,barcelona,,,22
+2932,collex,,,35
+2933,villa ridge,,,34
+2934,garden grove,,,70
+2935,san francisco,,,54
+2936,vancouver,,,33
+2937,gilbert,,,48
+2938,schiedam,,,31
+2939,woodstock,,,62
+2940,forsyth,,,48
+2941,grand rapids,,,45
+2942,east orange,,,56
+2943,san antonio,,,27
+2944,storm lake,,,48
+2945,lake george,,,34
+2946,pismo beach,,,28
